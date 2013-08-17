@@ -111,22 +111,18 @@ The variable `spaceSuit` is of type
 `com.geophile.spacesuit.SpaceSuit`, initialized as follows:
 
         // Describe the space
-        ApplicationSpace applicationSpace = 
-            ApplicationSpace.newApplicationSpace(new double[]{-90, -180},
-                                                 new double[]{90, 180});
-        Space space = Space.newSpace(applicationSpace, 24, 24);
+        Space space = Space.newSpace(new double[]{-90, -180},
+                                     new double[]{90, 180}, 
+                                     new int[]{24, 24});
         // Create SpaceSuit object
         SpaceSuit spaceSuit = SpaceSuit.create(space, "<<", ">>");
 
-First the application's space is described. The lower-left coordinate
-is (-90, -180), and the upper-right is (90, 180), i.e., we're using
-latitude and longitude.
-
-Next, the space used by
-[Geophile](https://github.com/geophile/geophile) is created. The
-resolution of the grid used by Geophile is 24 bits by 24 bits. (See
-the Geophile documentation for more information on `ApplicationSpace`
-and `Space`.)
+First the application's space, (used by
+[Geophile](https://github.com/geophile/geophile)), is described. The
+lower-left coordinate is (-90, -180), and the upper-right is (90,
+180), i.e., we're using latitude and longitude. The resolution of the
+grid used by Geophile is 24 bits by 24 bits. (See the Geophile
+documentation for more information on `Space`.)
 
 Finally, the `SpaceSuit` object is created, by passing in the `Space`,
 and delimiters for the parts of queries that are rewritten by spacesuit.
