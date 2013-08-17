@@ -38,9 +38,9 @@ public class QueryDB
         String url = String.format("jdbc:mysql://localhost/%s?user=%s&password=%s", database, user, password);
         Connection connection = DriverManager.getConnection(url);
         Statement statement = connection.createStatement();
-        String spaceSuitQuery = String.format("select latitude, longitude, spatialIndexKey, description\n" +
+        String spaceSuitQuery = String.format("select latitude, longitude, z, description\n" +
                                               "from place\n" +
-                                              "where << inbox(spatialIndexKey, latitude, %s, %s, longitude, %s, %s) >> ",
+                                              "where << inbox(z, latitude, %s, %s, longitude, %s, %s) >> ",
                                               minLat, maxLat, minLon, maxLon);
         String[] queries = spaceSuit.transformQuery(spaceSuitQuery, MAX_QUERIES);
         for (String query : queries) {

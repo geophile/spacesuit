@@ -52,7 +52,7 @@ public class PopulateDB
             // Compute spatialIndexKey-value
             long z = spaceSuit.spatialIndexKey(latitude, longitude);
             // Insert to database
-            String query = String.format("insert into place(latitude, longitude, description, spatialIndexKey) values (%s, %s, '%s', %s)",
+            String query = String.format("insert into place(latitude, longitude, description, z) values (%s, %s, '%s', %s)",
                                          latitude, longitude, description, z);
             statement.executeUpdate(query);
         }
