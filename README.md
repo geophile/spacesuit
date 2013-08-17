@@ -51,7 +51,7 @@ SpaceSuit depends on
 SpaceSuit using maven, then the Geophile artifacts should be retrieved
 automatically. To run SpaceSuit, you need to include the Geophile jar
 file in your CLASSPATH, e.g. 
-`~/.m2/repository/com/geophile/geophile/1.1.0/geophile-1.1.0.jar`.
+`~/.m2/repository/com/geophile/geophile/1.1.1/geophile-1.1.1.jar`.
 
 ## Example
 
