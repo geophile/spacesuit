@@ -1,0 +1,2015 @@
++57.09700         +9.85000       Aalborg, Denmark        
++49.03000       -122.32000         Abbotsford, BC        
++39.23500        -76.17490     AberdeenPrvGnd, MD        
++42.95000       -112.83000           Aberdeen, ID        
++39.51170        -76.16170           Aberdeen, MD        
++57.20000         -2.20000     Aberdeen, Scotland        
++45.46700        -98.48300           Aberdeen, SD        
++47.00000       -123.80000           Aberdeen, WA        
++38.90000        -97.20000            Abilene, KS        
++32.46500        -99.71330            Abilene, TX        
++16.75000        -99.76700       Acapulco, Mexico        
++5.60000         -0.16700           Accra, Ghana         
++47.28300        -96.53300                Ada, MN        
++51.66700       -176.46700               Adak, AK        
++42.58300        -73.16700              Adams, MA        
++9.00000        +38.73330   AddisAbaba, Ethiopia         
+-34.76660       +138.53670    Adelaide, Australia        
++12.80000        +45.00000    Aden, Yemen(PDR of)        
++36.70000        -94.93300              Afton, OK        
++42.70000       -110.86700              Afton, WY        
++13.48167       +144.79330         AganaNAS, Guam        
++37.25000       -119.42000           Ahwahnee, CA        
++33.53300        -81.71700              Aiken, SC        
++42.53300        -99.85000          Ainsworth, NE        
++32.33300       -112.91700                Ajo, AZ        
++41.08330        -81.51220              Akron, OH        
++26.01670        +50.55000     AlManamah, Bahrain        
++37.76330       -122.24300            Alameda, CA        
++37.36700       -115.16700              Alamo, NV        
++32.90000       -105.95700         Alamogordo, NM        
++31.57500        -84.15830             Albany, GA        
++42.65030        -73.75030             Albany, NY        
++44.63330       -123.09800             Albany, OR        
++42.40000       -113.57000             Albion, ID        
++35.08360       -106.65100        Albuquerque, NM        
++35.75000        -84.00000              Alcoa, TN        
++51.11933         -1.15543   Aldermaston, England        
++82.52000        -62.28000             Alert, NWT        
++32.91700        -85.91700      AlexanderCity, AL        
++31.19000        +29.95000      Alexandria, Egypt        
++31.30170        -92.45330         Alexandria, LA        
++38.80330        -77.05000         Alexandria, VA        
++36.70000         +3.21700       Algiers, Algeria        
++34.14000       -118.10700           Alhambra, CA        
+-23.80000       +133.90000  AliceSprings, Austral        
++64.00000       -145.72000          Allen AAF, AK        
++40.60300        -75.46830          Allentown, PA        
++42.10000       -102.88300           Alliance, NE        
++34.06110        -84.22220         Alpharetta, GA        
++32.50370       -116.45100             Alpine, CA        
++47.83400        +10.86800    Altenstadt, Germany        
++40.51530        -78.40080            Altoona, PA        
++28.25000       +129.70000    Amami Island, Japan        
++35.20750       -101.83400           Amarillo, TX        
++67.08000       -157.85000             Ambler, AK        
++51.38000       -179.26000           Amchitka, AK        
++42.75000       -112.88300     American Falls, ID        
++42.03170        -93.61670               Ames, IA        
++41.39750        -82.21970            Amherst, OH        
++16.75000        -22.95000  Amilcar Cabral, C.Ver        
++31.95000        +35.95000          Amman, Jordan        
++52.35000         +4.86660       Amsterdam, Neth.        
++46.12830       -112.95300           Anaconda, MT        
++33.83500       -117.91300            Anaheim, CA        
++61.16670       -149.98300          Anchorage, AK        
++13.58670       +144.93670     Anderson AFB, Guam        
++40.16670        -85.68500           Anderson, IN        
++34.51000        -82.65500           Anderson, SC        
++6.90000       +134.15000          Angaur Island         
++40.03000        +32.90000         Ankara, Turkey        
++42.28310        -83.74780           AnnArbor, MI        
++38.97330        -76.49500          Annapolis, MD        
++55.04500       -131.56000        Annette Is., AK        
++33.65000        -85.78300           Anniston, AL        
++49.33000        +10.59700       Ansbach, Germany        
++17.13330        -61.78330                Antigua        
++24.23300        -95.63300            Antlers, OK        
+-23.43330        -70.60000     Antofagasta, Chile        
++51.21670         +4.40000       Antwerp, Belgium        
++44.26170        -88.42000           Appleton, WI        
++29.60000        +35.01000          Aqaba, Jordan        
++38.58330       -121.48300       Arcade-Arden, CA        
++34.16700        -97.13300            Ardmore, OK        
++45.60000         +9.15000           Arese, Italy        
++48.35000        -96.80000             Argyle, MN        
+-18.35000        -70.33330           Arica, Chile        
++34.10000        -93.08300        Arkadelphia, AR        
++42.08830        -87.98000     Arlington Hts., IL        
++42.41500        -71.15170          Arlington, MA        
++32.73670        -97.11330          Arlington, TX        
++38.90000        -77.10000          Arlington, VA        
++43.30000        -98.35000             Armour, SD        
++39.80000       -105.07800             Arvada, CO        
+-7.88000        -14.42000       Ascenci&oacute;n Island         
++35.21700       -112.48300           Ash Fork, AZ        
++35.59500        -82.55720          Asheville, NC        
++37.18300        -99.76700            Ashland, KS        
++38.47670        -82.63970            Ashland, KY        
++46.61700        -68.43300            Ashland, ME        
++46.05000        -99.38300             Ashley, ND        
++15.28330        +38.90000       Asmara, Ethiopia        
++39.25000       -106.91700              Aspen, CO        
++46.18300       -123.85000            Astoria, OR        
+-25.23330        -57.51670     Asuncion, Paraguay        
++23.96500        +32.82000           Aswan, Egypt        
++33.95670        -83.38330             Athens, GA        
++38.00000        +23.63330         Athens, Greece        
++38.02667        +23.73345         Athens, Greece        
++35.43300        -84.60000             Athens, TN        
++42.53300        -98.96700           Atkinson, NE        
++33.75280        -84.39360            Atlanta, GA        
++39.35890        -74.43140      Atlantic City, NJ        
++31.01700        -87.51700             Atmore, AL        
++41.95800        -71.29190          Attleboro, MA        
++32.60670        -85.48330             Auburn, AL        
++44.09670        -70.22830             Auburn, ME        
+-36.88320       +174.75000  Auckland, New Zealand        
++35.26700        -91.35000            Augusta, AR        
++33.47220        -81.96670            Augusta, GA        
++44.31470        -69.77470            Augusta, ME        
++39.74000       -104.86800             Aurora, CO        
++41.75500        -88.31330             Aurora, IL        
++47.51700        -92.28300             Aurora, MN        
++39.50000       -117.08300             Austin, NV        
++30.26920        -97.74360             Austin, TX        
+-38.03330       +144.46670      Avalon, Australia        
++46.03300        +12.60000          Aviano, Italy        
++41.66700        -72.83300               Avon, CT        
++35.45000       +139.45000           Ayase, Japan        
++36.66700       -108.00000              Aztec, NM        
++7.36440       +134.55140      Babelthuap Island         
++10.65000       +122.93330   Bacolod, Philippines        
++48.79000         +8.19000   Baden-Baden, Germany        
++33.23330        +44.36670          Baghdad, Iraq        
++26.26700        +50.63300        Bahrain, U.A.E.        
++49.14000        -68.18000         Baie-Comeau, PQ        
++46.35000       -104.20000                Baker, MT        
++35.37500       -119.02200        Bakersfield, CA        
++8.91670        -79.60000         Balboa, Panama         
++34.07000       -117.95800       Baldwin Park, CA        
+-8.75000       +115.16670        Bali, Indonesia         
++39.29050        -76.61250          Baltimore, MD        
++49.83300        +10.83300       Bamberg, Germany        
++27.22600        +56.37700    Bandar Abbass, Iran        
++26.53300        +54.82500    Bandar Lengeh, Iran        
++40.30900        +27.97300       Bandirma, Turkey        
++51.18000       -115.55000              Banff, AB        
++13.80000        +77.30000       Bangalore, India        
++13.83330       +100.48330      Bangkok, Thailand        
++44.80360        -68.77170             Bangor, ME        
++13.33600        -16.65990         Banjul, Gambia        
++44.36700        -68.21700         Bar Harbor, ME        
++43.48300        -89.73300            Baraboo, WI        
++13.06670        -59.50000               Barbados        
++41.30200         +2.09200       Barcelona, Spain        
++40.00330        -81.19170        Barnesville, OH        
++10.90000        -74.78330 Barranquilla, Colombia        
++44.19830        -72.50170              Barre, VT        
++45.40000        -91.85000             Barron, WI        
++71.33300       -156.00000             Barrow, AK        
++34.88300       -117.05000            Barstow, CA        
++36.74500        -95.97670       Bartlesville, OK        
++44.75000        -72.08300             Barton, VT        
++30.56670        +47.77700           Basrah, Iran        
++33.88300        -81.56700          Batesburg, SC        
++30.44940        -91.18330        Baton Rouge, LA        
++42.31610        -85.18000       Battle Creek, MI        
++43.60110        -83.88750           Bay City, MI        
++30.31700        -89.33300      Bay St. Louis, MS        
++40.66670        -74.12000            Bayonne, NJ        
++29.71830        -94.97670            Baytown, TX        
++46.91700       -104.00000              Beach, ND        
++36.96700       -116.80000             Beatty, NV        
++32.41700        -80.66700           Beaufort, SC        
++30.08890        -94.10250           Beaumont, TX        
++38.25000       -112.66700             Beaver, UT        
++45.48830       -122.80700          Beaverton, OR        
++37.77670        -81.19000            Beckley, WV        
++39.91660       +116.38330         Beijing, China        
++33.88330        +35.50000        Beirut, Lebanon        
++38.14600         -7.92200         Beja, Portugal        
+-1.38330        -48.48330          Belem, Brazil         
++34.66700       -106.75000              Belen, NM        
++54.63000         -5.87000    Belfast, N. Ireland        
++44.80000        +20.53330       Belgrade, Serbia        
++15.53330        -88.30000            Belize City        
++38.51700        -89.98300         Belleville, IL        
++41.14500        -95.89170           Bellevue, NE        
++47.61670       -122.20000           Bellevue, WA        
++33.89000       -118.14200         Bellflower, CA        
++48.75050       -122.47700         Bellingham, WA        
++43.13333        -72.45000      Bellows Falls, VT        
++32.12772         -7.87990    Ben Guerir, Morocco        
++44.06700       -121.28300               Bend, OR        
++42.88000        -73.19670         Bennington, VT        
++34.56500        -92.58670             Benton, AR        
++60.29000         +5.22000         Bergen, Norway        
++37.86940       -122.27100           Berkeley, CA        
++52.51670        +13.33330        Berlin, Germany        
++44.41700        -71.16700             Berlin, NH        
++32.36700        -64.68300                Bermuda        
++46.91670         +7.41670      Bern, Switzerland        
++60.79170       -161.75000             Bethel, AK        
++39.00000        -77.16700           Bethesda, MD        
++40.62110        -75.37610          Bethlehem, PA        
++41.61167        -90.58920         Bettendorf, IA        
++66.96700       -151.80000      Bettles Field, AK        
++43.49170        -70.46330          Biddeford, ME        
++64.13300       -145.80000          Big Delta, AK        
++61.85000       -150.10000           Big Lake, AK        
++45.78330       -108.50100           Billings, MT        
++30.39670        -88.88330             Biloxi, MS        
++42.10080        -75.91310         Binghamton, NY        
++33.51690        -86.81000         Birmingham, AL        
++52.48330         -1.88320    Birmingham, England        
++46.80640       -100.78800           Bismarck, ND        
++49.94500         +6.56900       Bitburg, Germany        
++53.77300         -3.04500     Blackpool, England        
++36.78300        -97.31700          Blackwell, OK        
++40.79500        -74.20000         Bloomfield, NJ        
++40.48170        -88.99330        Bloomington, IL        
++39.16500        -86.53170        Bloomington, IN        
++44.82500        -93.27500        Bloomington, MN        
++37.26670        -81.22330          Bluefield, WV        
++37.30000       -109.56700              Bluff, UT        
++26.35000        -80.08670         Boca Raton, FL        
++26.35000        -80.08670         Boca Raton, FL        
++67.27000        +14.36670           Bodo, Norway        
++30.80000        -89.86700           Bogalusa, LA        
++4.63330        -74.09990       Bogota, Colombia         
++36.70000       -102.50000         Boise City, OK        
++43.61860       -116.19900              Boise, ID        
++43.63333       -116.26700              Boise, ID        
++44.53800        +11.29000         Bologna, Italy        
++18.96670        +72.83330          Bombay, India        
++50.72000         +7.08000          Bonn, Germany        
++36.19860        -81.65770              Boone, NC        
++37.41700        -83.66700         Booneville, KY        
++44.83330         -0.61660       Bordeaux, France        
++40.08300        -74.66700         Bordentown, NJ        
++18.50000        -67.13330          Borinquen, PR        
++43.13300        -90.73300           Boscobel, WI        
++32.50000        -93.70000       Bossier City, LA        
++32.51670        -93.73170       Bossier City, LA        
++42.35670        -71.05690             Boston, MA        
++35.97830       -114.83800       Boulder City, NV        
++37.05000       -122.15000      Boulder Creek, CA        
++40.01330       -105.28000            Boulder, CO        
++40.88500       -111.88000          Bountiful, UT        
++39.00670        -76.78170              Bowie, MD        
++36.98830        -86.45080      Bowling Green, KY        
++46.18300       -103.38300             Bowman, ND        
++45.68170       -111.03800            Bozeman, MT        
++19.76310       -155.55700       Bradshaw AAF, HI        
++49.85000        -99.95000            Brandon, MB        
++43.75000        -73.08300            Brandon, VT        
+-15.86670        -47.91670       Brasilia, Brazil        
++42.85170        -72.56330        Brattleboro, VT        
++53.04700         +8.79000        Bremen, Germany        
++47.56700       -122.63300          Bremerton, WA        
++48.40000         -4.49990          Brest, France        
++41.18030        -73.18940         Bridgeport, CT        
++41.18750        -73.20830         Bridgeport, CT        
++39.45000        -75.21000          Bridgeton, NJ        
++40.16000        -80.38000          Brilliant, OH        
+-27.49990       +153.16670    Brisbane, Australia        
++41.67330        -72.95000            Bristol, CT        
++51.48330         -2.64990       Bristol, England        
++41.68300        -71.23300            Bristol, RI        
++36.59330        -82.17670            Bristol, TN        
++44.16700        -73.00000            Bristol, VT        
++51.75000         -1.58880  Brize Norton, England        
++42.08390        -71.02360           Brockton, MA        
++36.05000        -95.79500       Broken Arrow, OK        
++42.06700       -124.26700          Brookings, OR        
++44.31000        -96.79330          Brookings, SD        
++42.33170        -71.12170          Brookline, MA        
++45.10000        -93.37500      Brooklyn Park, MN        
++39.67330        -75.72000     Brookside Park, DE        
++25.90190        -97.49940        Brownsville, TX        
++4.95000       +114.93670                 Brunei         
++31.13300        -81.50000          Brunswick, GA        
++43.90670        -69.96330          Brunswick, ME        
++50.85000         +4.35000      Brussels, Belgium        
++44.38330        +26.16670     Bucharest, Romania        
++52.27500         +9.07400     Buckeburg, Germany        
++47.43300        +19.25000      Budapest, Hungary        
++33.87170       -117.99700         Buena Park, CA        
++33.87170       -117.99700         Buena Park, CA        
+-34.33320        -58.49990  Buenos Aires, Argent.        
++42.88110        -78.87250            Buffalo, NY        
++44.31700       -106.70000            Buffalo, WY        
++34.18170       -118.31200            Burbank, CA        
++39.28300       -102.43300         Burlington, CO        
++41.77000        -72.99000         Burlington, CT        
++40.81000        -91.23330         Burlington, IA        
++36.09670        -79.43330         Burlington, NC        
++44.47860        -73.21280         Burlington, VT        
++48.47000       -122.45000         Burlington, WA        
++43.58300       -119.08300              Burns, OR        
++61.33000       -139.00000            Burwash, YT        
++46.01830       -112.53600              Butte, MT        
++5.46670       +100.40000  Butterworth, Malaysia         
++30.00000        +31.28330           Cairo, Egypt        
++50.96000         +1.95000 Calais/Dunkirk, France        
++22.53330        +88.36670        Calcutta, India        
++43.66500       -116.68700           Caldwell, ID        
++51.05000       -114.08300       Calgary, Alberta        
++37.63300       -114.50000           Caliente, NV        
++52.19000         +0.17000     Cambridge, England        
++42.36690        -71.10610          Cambridge, MA        
++38.57000        -76.07830          Cambridge, MD        
++39.94470        -75.12050             Camden, NJ        
+-35.35000       +149.16670    Canberra, Australia        
++43.73000         +6.90000         Cannes, France        
++34.21000       -118.57000        Canoga Park, CA        
++23.11670       +113.25000          Canton, China        
++40.79720        -81.37690             Canton, OH        
++39.29050        -76.61250       Cantonsville, MD        
++28.45000        -80.45800     Cape Canaveral, FL        
++37.31000        -89.53330     Cape Girardeau, MO        
++38.91700        -74.83300           Cape May, NJ        
+-33.79990        +18.46670   Cape Town, So Africa        
++10.50000        -66.96660     Caracas, Venezuela        
++47.08300       -122.05000          Carbonado, WA        
++37.70000        -89.20000         Carbondale, IL        
++51.50000         -3.29990         Cardiff, Wales        
++46.66700        -92.43300            Carlton, MN        
++38.66680       -121.32900         Carmichael, CA        
++33.66700       -105.91700          Carrizozo, NM        
++33.58300        -84.08300         Carrollton, GA        
++39.16670       -119.76700        Carson City, NV        
++33.80670       -118.28300             Carson, CA        
++34.15000        -84.78300       Cartersville, GA        
++42.21670        -88.23330               Cary, IL        
++32.88000       -111.74800        Casa Grande, AZ        
++33.53330         -7.68320    Casablanca, Morocco        
++42.84670       -106.31300             Casper, WY        
++46.28300       -122.88300         Castlerock, WA        
++33.77500       -111.89600         Cave Creek, AZ        
++4.90000        -52.50000    Cayenne, Fr. Guiana         
++37.66700       -113.16700         Cedar City, UT        
++42.52500        -92.45170        Cedar Falls, IA        
++41.96690        -91.66470       Cedar Rapids, IA        
++40.79000        -73.20000      Central Islip, NY        
++39.08300        -76.08300        Centreville, MD        
++33.83500       -118.08300           Cerritos, CA        
++41.40000        -81.60000      Chagrin Falls, OH        
++40.11800        -88.24670          Champaign, IL        
++35.93470        -79.06720        Chapel Hill, NC        
++32.77640        -79.93140         Charleston, SC        
++38.35030        -81.63110         Charleston, WV        
++47.61000        -70.19000         Charlevoix, PQ        
++35.22890        -80.84580          Charlotte, NC        
++38.00000        -78.41700    Charlottesville, VA        
++46.24000        -63.13000     Charlottetown, PEI        
++47.05000        -65.45000            Chatham, NB        
++35.04470        -85.30890        Chattanooga, TN        
++33.50000       +126.50000        Cheju, S. Korea        
++40.05000        -75.11000         Cheltenham, PA        
++34.66700        -79.86700             Cheraw, SC        
++49.65000         -1.46700      Cherbourg, France        
++36.73300        -98.36700           Cherokee, OK        
++36.82500        -76.28330         Chesapeake, VA        
++41.41000        -72.48000            Chester, CT        
++39.85000        -75.36700            Chester, PA        
++41.13580       -104.81900           Cheyenne, WY        
++18.76330        +98.96670   Chiang Mai, Thailand        
++49.90000        -74.38000        Chibougamau, PQ        
++41.87440        -87.63940            Chicago, IL        
+-6.78330        -79.83330         Chiclayo, Peru         
++42.14000        -72.61170           Chicopee, MA        
++56.23300       -158.20000            Chignik, AK        
++41.91700        -89.50000        Chillicothe, IL        
++39.76700        -93.53300        Chillicothe, MO        
++39.33300        -83.00000        Chillicothe, OH        
++34.01700       -117.70000        Chino Hills, CA        
++34.01700       -117.70000              Chino, CA        
++48.58300       -109.25000            Chinook, MT        
++42.80000       +141.66670         Chitose, Japan        
++22.25000        +91.83330 Chittagong, Bangladesh        
+-43.48300       +172.53300 Christchurch, N Zealan        
++1.98330       -157.36700       Christmas Island         
++32.64330       -117.08300        Chula Vista, CA        
++58.77000        -94.09000          Churchill, MB        
++7.45972       +151.83890      Chuuk, Micronesia         
++41.85000        -87.74500             Cicero, IL        
++39.10190        -84.50970         Cincinnati, OH        
++65.83000       -144.06000             Circle, AK        
++39.58300        -83.00000        Circleville, OH        
++43.37500        -72.33670          Claremont, NH        
++40.75000        -74.00000              Clark, NJ        
++39.28000        -80.34830         Clarksburg, WV        
++34.19830        -90.57500         Clarksdale, MS        
++36.52670        -87.34830        Clarksville, TN        
++39.80500        -75.45330           Claymont, DE        
++29.53000        -95.07780    Clear Lake City, TX        
++64.33000       -149.15000              Clear, AK        
++38.93333       -122.60000          Clearlake, CA        
++27.96670        -82.79830         Clearwater, FL        
++41.49750        -81.69720          Cleveland, OH        
++35.15830        -84.87670          Cleveland, TN        
++40.88330        -74.14670            Clifton, NJ        
++41.84330        -90.19330            Clinton, IA        
++34.40170       -103.20500             Clovis, NM        
++39.50000        -76.66700       Cockeysville, MD        
+-12.18330        +96.83330           Cocos Island        
++44.51700       -109.03300               Cody, WY        
++55.20000       -162.72500           Cold Bay, AK        
++54.43000       -110.23000          Cold Lake, AB        
++38.98670        -76.93500       College Park, MD        
++35.04700        -85.05100        Collegedale, TN        
++50.93330         +6.95000       Cologne, Germany        
++6.96670        +79.86660     Colombo, Sri Lanka         
++9.36670        -79.89990          Colon, Panama         
++38.83530       -104.82100   Colorado Springs, CO        
++41.31780        -81.96060      Columbia Stn., OH        
++38.95080        -92.32940           Columbia, MO        
++34.00050        -81.03330           Columbia, SC        
++35.61500        -87.03670           Columbia, TN        
++32.46860        -84.99000           Columbus, GA        
++33.49830        -88.41670           Columbus, MS        
++42.42500        -97.36000           Columbus, NE        
++39.96300        -83.00470           Columbus, OH        
++39.96300        -83.00470           Columbus, OH        
++39.95000        -83.08330           Columbus, OH        
++49.68000       -124.90000              Comox, BC        
++33.89500       -118.22600            Compton, CA        
+-36.76670        -73.05000      Concepcion, Chile        
++37.97500       -122.03000            Concord, CA        
++43.20610        -71.54030            Concord, NH        
++45.23300       -120.16700             Condon, OR        
++35.10000        -92.45000             Conway, AR        
++44.00000        -71.16700             Conway, NH        
++55.71670        +12.45000    Copenhagen, Denmark        
++41.68400        -91.59680         Coralville, IA        
++36.91700        -84.10000             Corbin, KY        
++60.56700       -145.63300            Cordova, AK        
++34.91700        -88.50000            Corinth, MS        
++40.96700        -94.66700            Corning, IA        
++27.79750        -97.39580     Corpus Christi, TX        
++37.35000       -108.58300             Cortez, CO        
++44.56670       -123.27000          Corvallis, OR        
++33.64000       -117.91800         Costa Mesa, CA        
++41.26170        -95.86500     Council Bluffs, IA        
++39.08670        -84.51170          Covington, KY        
++49.68000       -115.76000          Cranbrook, BC        
++40.66200        -74.21600           Cranford, NJ        
++41.78330        -71.43830           Cranston, RI        
++42.68300       -103.41700           Crawford, NE        
++38.14000        -85.45000          Crestwood, KY        
++38.34000        -90.23000          Crestwood, MO        
++40.64360        -89.61060        Creve Coeur, IL        
++38.73300       -105.20000      Cripple Creek, CO        
++35.47000        -92.08000            Crocker, MO        
++42.73300        -97.53300            Crofton, NE        
++14.80000       +120.16670 Cubi Point, Philippine        
++34.01000       -118.38300        Culver City, CA        
++39.65000        -78.76330         Cumberland, MD        
++48.63300       -112.31700           Cut Bank, MT        
++23.85000        +90.40000      Dacca, Bangladesh        
++14.75000        -17.50000         Dakar, Senegal        
++32.78580        -96.79360             Dallas, TX        
++60.01000        +22.48000      Dalsbruk, Finland        
++37.70170       -122.46200          Daly City, CA        
++33.51670        +36.30000        Damascus, Syria        
++41.39330        -73.45720            Danbury, CT        
++41.79000        -71.88000          Danielson, CT        
++40.78333        -91.13330           Danville, IA        
++36.59170        -79.38420           Danville, VA        
+-6.79990        +39.28330 Dar es Salaam, Tanzan.         
+-12.41990       +130.83670      Darwin, Australia        
++41.52190        -90.57580          Davenport, IA        
++39.75890        -84.19530             Dayton, OH        
++35.50000        -85.00000             Dayton, TN        
++29.21220        -81.01940      Daytona Beach, FL        
++70.19500       -148.46000          Deadhorse, AK        
++42.32500        -83.29170   Dearborn Heights, MI        
++42.32330        -83.17500           Dearborn, MI        
++36.46389       -116.88100 Death Valley Nat'l Mon        
++39.84500        -88.94640           Decataur, IL        
++39.41000         +8.96700     Decimomannu, Italy        
++41.92983        -88.71350             Dekalb, IL        
++29.36690       -100.73000            Del Rio, TX        
++49.65000        -88.63330            Delavan, WI        
++32.43300        -91.48300              Delhi, LA        
++64.03000       -145.72000         Delta Jct., AK        
++39.33300       -112.58300              Delta, UT        
++41.20000        -87.17250            DeMotte, IN        
++63.71000       -148.94000  Denali Nat'l Park, AK        
++33.22000        -97.13670             Denton, TX        
++39.74940       -104.98900             Denver, CO        
++41.33300        -73.08300              Derby, CT        
++52.81700         -1.33300         Derby, England        
++42.88170        -71.32330              Derry, NH        
++41.58720        -93.61670         Des Moines, IA        
++42.04330        -87.87000        Des Plaines, IL        
++36.95000       +127.03330 Desiderio AAF, S. Kore        
++42.33000        -83.04920            Detroit, MI        
++48.11000        -98.86330        Devils Lake, ND        
++26.26000        +50.15000  Dhahran, Saudi Arabia        
++34.03800       -117.79700        Diamond Bar, CA        
++38.70170       -120.82400    Diamond Springs, CA        
++46.88000       -102.78800          Dickinson, ND        
++29.46940        -95.08250          Dickinson, TX        
+-7.31670        +72.40000           Diego Garcia         
++47.35000         +5.03330          Dijon, France        
++21.58330       -158.20000         Dillingham, HI        
++45.20000       -112.66700             Dillon, MT        
++34.40000        -79.46700             Dillon, SC        
++37.90000        +40.20000     Diyarbakir, Turkey        
+-6.15000       +106.85000    Djakarta, Indonesia         
++11.56670        +43.00000               Djibouti        
++37.75470       -100.01900         Dodge City, KS        
++25.26700        +51.56700            Doha, Qatar        
++51.52000         +7.60000      Dortmund, Germany        
++31.21700        -85.38300             Dothan, AL        
++4.01700         +9.71700       Douala, Cameroon         
++39.13330        -75.46670          Dover AFB, DE        
++39.13330        -75.55000              Dover, DE        
++51.13330         +1.31670         Dover, England        
++27.96660        -82.25830              Dover, FL        
++43.19170        -70.88000              Dover, NH        
++33.93500       -118.12500             Downey, CA        
++49.77000        -92.83000             Dryden, ON        
++25.30000        +55.43330          Dubai, U.A.E.        
++53.43300         -6.25000        Dublin, Ireland        
++42.56400        +18.25100     Dubrovnik, Croatia        
++42.50330        -90.67500            Dubuque, IA        
++46.78220        -92.10670             Duluth, MN        
++39.26700        -76.51700            Dundalk, MD        
+-45.93330       +170.20000   Dunedin, New Zealand        
++41.88300        -95.55000             Dunlap, IA        
++37.25000       -107.91700            Durango, CO        
++36.00000        -78.91250             Durham, NC        
++36.00000        -78.91250             Durham, NC        
++51.28300         +6.75000    Dusseldorf, Germany        
++53.91000       -166.54000       Dutch Harbor, AK        
++40.44000        -74.42000       E. Brunswick, NJ        
++42.73500        -84.48330         E. Lansing, MI        
++36.09500       -115.04200       E. Las Vegas, NV        
++34.02000       -118.15300     E. Los Angeles, CA        
++38.62170        -90.15500       E. St. Louis, IL        
++41.08330        -75.21670     E. Stroudsburg, PA        
++47.20340       -120.05300       E. Wenatchee, WA        
++44.83000        -93.22000              Eagan, MN        
++61.32170       -149.56700        Eagle River, AK        
++64.70000       -141.33300              Eagle, AK        
++42.34300        -71.05000        East Boston, MA        
++40.76330        -74.21000        East Orange, NJ        
++33.67670        -84.44330         East Point, GA        
++39.58000        -74.40000         Eastampton, NJ        
++33.08300        -83.25000           Eatonton, GA        
++44.81330        -91.49500         Eau Claire, WI        
++44.88330        -93.35000              Edina, MN        
++55.95000         -3.16670    Edinburgh, Scotland        
++35.65330        -97.48170             Edmond, OK        
++47.48000       -122.22000            Edmonds, WA        
++53.50000       -113.50000           Edmonton, AB        
++47.43000        -68.41000         Edmundston, NB        
++28.98500        -96.68330               Edna, TX        
++34.90000       -117.86700        Edwards AFB, CA        
+-17.98000       +168.70000         Efate, Vanuatu        
++39.08300        -88.50000          Effingham, IL        
++64.67000       -147.10000        Eielson AFB, AK        
++32.79500       -116.96000           El Cajon, CA        
++33.20670        -92.66670          El Dorado, AR        
++33.58750       -112.33600          El Mirage, AZ        
++34.06670       -118.02500           El Monte, CA        
++31.76000       -106.48600            El Paso, TX        
++37.83300        -88.50000           Eldorado, IL        
++41.61200        -90.59000           Eldridge, IA        
++30.28350        -86.29050          Elgin AFB, FL        
++42.03830        -88.29000              Elgin, IL        
++36.25000        -76.25000     Elizabeth City, NC        
++40.66190        -74.21640          Elizabeth, NJ        
++37.69000        -85.87000      Elizabethtown, KY        
++35.38300        -99.38300           Elk City, OK        
++42.68300        -96.73300          Elk Point, SD        
++46.78300       -116.18300          Elk River, ID        
++41.66700        -86.00000            Elkhart, IN        
++38.91700        -79.83300             Elkins, WV        
++40.83000       -115.76000               Elko, NV        
++44.15000       -103.13300      Ellsworth AFB, SD        
++42.08300        -76.83300             Elmira, NY        
++39.74000        -75.59000            Elsmere, DE        
++40.15330        -75.86300           Elverson, PA        
++41.36500        -82.11000             Elyria, OH        
++41.91700        -72.58300            Enfield, CT        
++39.65330       -104.98500          Englewood, CO        
++36.39500        -97.87500               Enid, OK        
++0.05000        +32.45000        Entebbe, Uganda         
++40.11000        -76.10000            Ephrata, PA        
++48.32000        +11.93300        Erding, Germany        
++50.97500        +10.95800        Erfurt, Germany        
++42.12080        -80.08250               Erie, PA        
++33.11670       -117.08500          Escondido, CA        
++32.75000        +51.86400          Esfahan, Iran        
++44.48830        -73.11170     Essex Junction, VT        
++41.57000        -81.53670             Euclid, OH        
++33.11700        -91.26700             Eudora, AR        
++44.06667       -123.06700             Eugene, OR        
++44.05440       -123.09200             Eugene, OR        
++40.75000       -124.16700             Eureka, CA        
++39.55000       -115.96700             Eureka, NV        
++39.91700       -112.16700             Eureka, UT        
++42.04330        -87.67670           Evanston, IL        
++41.02750       -111.03100           Evanston, WY        
++37.97220        -87.57250         Evansville, IN        
++47.98000       -122.20000            Everett, WA        
++39.64110       -105.41600          Evergreen, CO        
++21.33500       -158.04300                Ewa, HI        
++42.96600        -70.92000             Exeter, NH        
++43.58300        -73.25000         Fair Haven, VT        
++64.80000       -147.85000          Fairbanks, AK        
++44.48300        -94.73300            Fairfax, MN        
++32.48300        -81.21700            Fairfax, SC        
++38.25000       -122.04200          Fairfield, CA        
++41.14170        -73.26330          Fairfield, CT        
++39.48330        -80.14330           Fairmont, WV        
++45.03300       -102.03300              Faith, SD        
++38.94780       -104.56100             Falcon, CO        
++41.70170        -71.15500         Fall River, MA        
++39.50000       -118.80000             Fallon, NV        
++38.66700        -84.33300           Falmouth, KY        
++46.87500        -96.78830              Fargo, ND        
++36.73330       -108.20300         Farmington, NM        
++51.28000         -0.76300   Farnborough, England        
++36.06670        -94.16000       Fayetteville, AR        
++35.05500        -78.87670       Fayetteville, NC        
++31.63300        -91.55000           Ferriday, LA        
++53.46700         -1.00000    Finningley, England        
++31.46700        -93.50000             Fisher, LA        
++42.58300        -71.80000          Fitchburg, MA        
++35.19330       -111.65200          Flagstaff, AZ        
++43.02170        -83.68330              Flint, MI        
++31.01700        -86.31700            Florala, AL        
++34.76700        -87.66700           Florence, AL        
++34.19670        -79.76830           Florence, SC        
++38.78790        -90.32160         Florissant, MO        
++33.03000        -97.07000       Flower Mound, TX        
++36.78300       -103.93300             Folsom, NM        
++43.78300        -88.48300        Fond du Lac, WI        
++21.36806       -157.96300        Ford Island, HI        
++35.00000        -90.76700       Forrest City, AR        
++46.25000       -106.68300            Forsyth, MT        
++40.58000       -105.08300       Fort Collins, CO        
++42.51700        -94.16700         Fort Dodge, IA        
++64.00000       -145.72000        Fort Greely, AK        
++26.12000        -80.13670    Fort Lauderdale, FL        
++56.73000       -111.27000      Fort McMurray, AB        
++67.43000       -134.85000    Fort McPherson, NWT        
++26.60000        -81.75000         Fort Myers, FL        
++58.80000       -122.63000        Fort Nelson, BC        
++34.43300        -85.68300         Fort Payne, AL        
++61.26000       -149.65000    Fort Richardson, AK        
++39.08300        -96.76700         Fort Riley, KS        
++40.90000        -73.30770       Fort Salonga, NY        
++37.83300        -94.71700         Fort Scott, KS        
++61.76000       -121.25000      Fort Simpson, NWT        
++35.38500        -94.41830         Fort Smith, AR        
++66.50000       -145.00000         Fort Yukon, AK        
++33.70000       -117.96000    Fountain Valley, CA        
++42.27330        -71.41500         Framingham, MA        
++38.20000        -84.86170          Frankfort, KY        
++50.03300         +8.56700     Frankfurt, Germany        
++43.41700        -71.66700           Franklin, NH        
++35.90000        -86.90000           Franklin, TN        
++39.41500        -77.41670          Frederick, MD        
++38.33300        -77.50000     Fredericksburg, VA        
++37.53300        -90.26700      Fredericktown, MO        
++45.85000        -66.43000        Fredericton, NB        
++40.25000        -74.26700           Freehold, NJ        
++26.55000        -78.70000      Freeport, Bahamas        
++48.03000         +7.83300      Freiburg, Germany        
++37.53500       -121.95700            Fremont, CA        
++41.44000        -96.49500            Fremont, NE        
++36.73670       -119.77000             Fresno, CA        
++28.86170        -81.91470     Fruitland Park, FL        
++26.65100        -81.75300          Ft. Myers, FL        
++41.07250        -85.14050          Ft. Wayne, IN        
++32.74860        -97.32890          Ft. Worth, TX        
++33.58330       +130.45000         Fukuoka, Japan        
++33.87500       -117.92500          Fullerton, CA        
++32.69200        -16.77300   Funchal, Madeira Is.        
++49.48300        +11.98300   Furth (Mfr), Germany        
++34.01580        -86.01140            Gadsden,AL        
++43.90000         +1.86670        Gaillac,France        
++29.70000        -82.25000        Gainesville,FL        
++34.26700        -83.80000        Gainesville,GA        
++39.14000        -77.19830       Gaithersburg,MD        
++64.74110       -156.95100             Galena,AK        
++35.52500       -108.74200             Gallup,NM        
++29.30280        -94.79530          Galveston,TX        
++48.93300        -54.56700           Gander,Nfld        
++37.96700       -100.86700        Garden_City,KS        
++33.77500       -117.91300       Garden_Grove,CA        
++32.90830        -96.63670            Garland,TX        
++41.75000       -112.16700            Garland,UT        
++47.63300       -101.40000           Garrison,ND        
++48.14047        +12.22100   Gars_am_Inn,Germany        
++41.60330        -87.33860               Gary,IN        
++48.78000        -64.51000              Gaspe,PQ        
++38.66700        -80.75000           Gassaway,WV        
++35.26500        -81.18170           Gastonia,NC        
++54.33330        +18.66670         Gdansk,Poland        
++50.96100         +6.03300 Geilenkirchen,Germany        
++46.23330         +6.06670         Geneva,Switz.        
++44.41300         +8.85000           Genoa,Italy        
++38.66700        -75.33300         Georgetown,DE        
++6.48330        -58.26670     Georgetown,Guyana         
++51.06700        +13.75000          Gera,Germany        
++36.15100         -5.34700               Gibraltar        
++32.98300       -112.68300          Gila_Bend,AZ        
++44.29330       -105.50200           Gillette,WY        
++37.00000        -85.91700            Glasgow,KY        
++55.90000         -4.41660      Glasgow,Scotland        
++33.53830       -112.18200           Glendale,AZ        
++34.14170       -118.24700           Glendale,CA        
++34.11670       -117.85000           Glendora,CA        
++42.96700       -115.35000       Glenns_Ferry,ID        
++43.33300        -73.66700        Glens_Falls,NY        
++43.80000        -74.08330        Glens_Falls,NY        
++39.58300       -107.33300   Glenwood_Springs,CO        
++45.65000        -95.38300           Glenwood,MN        
++64.20000        -51.68000     Godthab,Greenland        
++37.70000       -117.25000          Goldfield,NV        
++35.38300        -77.98300          Goldsboro,NC        
++35.35000       -116.88300          Goldstone,CA        
++53.33000        -60.42000       Goose_Bay,Nfld.        
++32.77640        -79.93140        Goose_Creek,SC        
++43.66670        -70.46670             Gorham,ME        
++34.18330       -118.50000      Granada_Hills,CA        
++19.30000        -81.36670     Grand_Cayman_Island        
++47.92000        -97.04500        Grand_Forks,ND        
++40.92170        -98.35330       Grand_Island,NE        
++39.08300       -108.58300     Grand_Junction,CO        
++32.74830        -96.99500      Grand_Prairie,TX        
++42.96750        -85.67030       Grand_Rapids,MI        
++21.45000        -71.15000       Grand_Turk_Island        
++41.61700       -109.96700            Granger,WY        
++45.93300       -116.13300        Grangeville,ID        
++44.76700        -95.56700      Granite_Falls,MN        
++42.43300       -123.33300        Grants_Pass,OR        
++39.15000       -121.03300       Grass_Valley,CA        
++47.50170       -111.28500        Great_Falls,MT        
++34.53300        -80.88300        Great_Falls,SC        
++40.41830       -104.69300            Greeley,CO        
++44.51330        -88.01390          Green_Bay,WI        
++39.00000       -110.08300        Green_River,UT        
++41.52670       -109.46800        Green_River,WY        
++39.00010        +76.85420          Greenbelt,MD        
++36.07140        -79.79030         Greensboro,NC        
++45.43300        -69.58300         Greenville,ME        
++33.40670        -91.06000         Greenville,MS        
++34.84720        -82.40030         Greenville,SC        
++36.13300        -82.83300         Greenville,TN        
++51.46670         +0.00000 Greenwich_Obs,England        
++41.02830        -73.62500          Greenwich,CT        
++33.51670        -90.18170          Greenwood,MS        
++34.19330        -82.16500          Greenwood,SC        
++45.36000         +5.32000       Grenoble,France        
++45.50000       -122.43000            Gresham,OR        
++40.65000        -86.15000        Grissom_AFB,IN        
++45.41700        -98.06700             Groton,SD        
++44.58300        -71.50000           Groveton,NH        
++19.90000        -75.20000   Guantanamo_Bay,Cuba        
++14.58300        -90.53300          Guatemala_City        
+-2.26660        -79.88320     Guayaquil,Ecuador         
++43.57000        -80.18000             Guelph,ON        
++49.43000         -2.60300                Guernsey        
++30.36780        -89.09330           Gulfport,MS        
++62.10000       -145.50000            Gulkana,AK        
++51.92100         +8.30400     Gutersloh,Germany        
++35.86700        -97.43300            Guthrie,OK        
++39.64500        -77.72000         Hagerstown,MD        
++20.98330       -156.28300              Haiku,HI        
++43.51700       -114.31700             Hailey,ID        
++59.25000       -135.46000             Haines,AK        
++44.67000        -63.58000            Halifax,NS        
++53.56670        +10.03330       Hamburg,Germany        
++41.38500        -72.90330             Hamden,CT        
++39.39970        -84.56300           Hamilton,OH        
++43.25000        -79.85000           Hamilton,ON        
++41.63000        -87.50500            Hammond,IN        
++37.02500        -76.34170            Hampton,VA        
++20.71700       -155.98300               Hana,HI        
++47.13889        -88.62080            Hancock,MI        
++46.06700        -96.90000          Hankinson,ND        
++48.96700        -98.70000             Hannah,ND        
++39.70000        -91.36700           Hannibal,MO        
++52.45000         +9.70000      Hannover,Germany        
+-17.99990       -141.00000  Hao_AB,Fr._Polynesia        
++42.40000        -82.91700       Harper_Woods,MI        
++39.33300        -77.75000      Harpers_Ferry,WV        
++38.91700        -75.58300         Harrington,DE        
++40.26190        -76.88300         Harrisburg,PA        
++43.41670        -96.68330         Harrisburg,SD        
++36.21700        -93.10000           Harrison,AR        
++38.50000        -78.83300       Harrisonburg,VA        
++41.77000        -72.68030           Hartford,CT        
++47.76700        -99.91700             Harvey,ND        
++40.59000        -98.38670           Hastings,NE        
++6.93670       +100.40000      Hat_Yai,Thailand         
++31.32670        -89.28830        Hattiesburg,MS        
++21.61700       -157.75000             Hauula,HI        
++23.13330        -82.38320           Havana,Cuba        
++48.55000       -109.68500              Havre,MT        
++33.91670       -118.35200          Hawthorne,CA        
++38.55000       -118.65000          Hawthorne,NV        
++37.66500       -122.07700            Hayward,CA        
++37.21700        -83.16700             Hazard,KY        
++46.59250       -112.04000             Helena,MT        
++54.18500         +7.90500     Helgoland,Germany        
++60.16660        +24.88330      Helsinki,Finland        
++37.83670        -87.58670          Henderson,KY        
++36.03670       -114.98000          Henderson,NV        
++36.30500        -86.62000     Hendersonville,TN        
++38.89750        -77.00920            Herndon,VA        
++25.82830        -80.28330            Hialeah,FL        
++35.71700        -81.35000            Hickory,NC        
++35.95170        -80.00500         High_Point,NC        
++41.16110        -74.45360     Highland_Lakes,NJ        
++44.50000        -99.43300           Highmore,SD        
++46.96700        -93.63300          Hill_City,MN        
++47.38300        -97.08300          Hillsboro,ND        
++45.52000       -122.98700          Hillsboro,OR        
++19.72500       -155.09000               Hilo,HI        
++37.66700        -80.91700             Hinton,WV        
++32.70000       -103.13200              Hobbs,NM        
++34.91700       -110.25000           Holbrook,AZ        
++40.73200        -73.76500       Hollis_Hills,NY        
++42.35000        -71.05000          Holliston,MA        
++34.75000        -89.46700      Holly_Springs,MS        
++34.12500       -118.33700          Hollywood,CA        
++26.01000        -80.15000          Hollywood,FL        
++42.20810        -72.61000            Holyoke,MA        
++59.65000       -151.52000              Homer,AK        
++21.75000       +115.00000               Hong_Kong        
+-9.24990       +159.75000   Honiara,Guadalcanal         
++52.33300         +0.76700     Honington,England        
++21.30610       -157.86000           Honolulu,HI        
++36.81700       -101.21700             Hooker,OK        
++61.53300       -166.03300         Hooper_Bay,AK        
++36.86170        -87.47170       Hopkinsville,KY        
++34.50830        -93.05330 Hot_Springs_Nat_Pk,AR        
++29.60000        -90.71700              Houma,LA        
++29.75720        -95.36030            Houston,TX        
++40.16700        -95.95000           Humboldt,NE        
++33.66830       -118.08300   Huntington_Beach,CA        
++40.84300        -73.40100 Huntington_Station,NY        
++38.42000        -82.44250         Huntington,WV        
++34.73170        -86.58670         Huntsville,AL        
++46.43300        -90.18300             Hurley,WI        
++44.36000        -98.21830              Huron,SD        
++38.08170        -97.92830         Hutchinson,KS        
++44.88300        -94.38300         Hutchinson,MN        
++57.00000        +13.10000      Hyltebruk,Sweden        
++37.00130        +35.42500       Incirlik,Turkey        
++37.23300        -95.70000       Independence,KS        
++39.09330        -94.41670       Independence,MO        
++39.76860        -86.16280       Indianapolis,IN        
++7.01667       +171.48330      Ine,Marshall_Is.         
++33.96000       -118.35000          Inglewood,CA        
++47.26000        +11.34000     Innsbruck,Austria        
++68.32000       -133.50000            Inuvik,NWT        
+-46.41670       +168.31670 Invercargill,New_Zeal        
++41.66030        -91.53140          Iowa_City,IA        
+-27.63330       +152.71670     Ipswich,Australia        
++63.76000        -68.55000           Iqaluit,NWT        
++46.15000        -88.65000         Iron_River,MI        
++33.67500       -117.76000             Irvine,CA        
++32.81330        -96.93670             Irving,TX        
++40.72670        -74.22500          Irvington,NJ        
++33.61670        +73.10000    Islamabad,Pakistan        
++54.08000         -4.62800             Isle_of_Man        
++41.03330        +29.00000       Istanbul,Turkey        
++45.73700        +12.13400         Istrana,Italy        
++42.24530        -84.40610            Jackson,MI        
++32.29890        -90.18500            Jackson,MS        
++35.61670        -88.81330            Jackson,TN        
++34.86500        -92.11170       Jacksonville,AR        
++30.32890        -81.66170       Jacksonville,FL        
+-6.15000       +106.85000     Jakarta,Indonesia         
++5.90667       +169.64170   Jaluit,Marshall_Is.         
++46.90500        -98.70500          Jamestown,ND        
++42.68170        -89.02000         Janesville,WI        
++42.68170        -89.02000         Janesville,WI        
++53.00000       -118.05000             Jasper,AB        
+-6.52130       +107.00000   Jatiluhur,Indonesia         
++21.50000        +39.20000  Jeddah,Saudia_Arabia        
++38.51670        -92.21670     Jefferson_City,MO        
++27.25000        -80.25000       Jensen_Beach,FL        
++40.73050        -74.06560        Jersey_City,NJ        
++31.76670        +35.23330      Jerusalem,Israel        
+-26.13330        +27.90000 Johannesburg,S_Africa        
++36.31830        -82.35330       Johnson_City,TN        
++16.73330       -169.53300          Johnston_Atoll        
++40.32640        -78.91750          Johnstown,PA        
++41.52670        -88.08000             Joliet,IL        
++35.83670        -90.70670          Jonesboro,AR        
++37.09330        -94.51170             Joplin,MO        
++33.00000       -116.58000             Julian,CA        
++58.30330       -134.40800             Juneau,AK        
++34.56700        +69.21700     Kabul,Afghanistan        
++21.50000       -158.20000        Kaena_Point,HI        
++20.88300       -156.46700            Kahului,HI        
++19.81700       -155.98300        Kailua_Kona,HI        
++42.29140        -85.58720          Kalamazoo,MI        
++19.41700       -155.00000           Kalapana,HI        
++21.21361       -156.97800          Kalaupapa,HI        
++48.19500       -114.31300          Kalispell,MT        
++50.70000       -120.45000           Kamloops,BC        
++20.01700       -155.66700            Kamuela,HI        
++37.00000       -112.50000              Kanab,UT        
++21.45500       -157.75600        Kaneohe_Bay,HI        
++41.11700        -87.88300           Kankakee,IL        
++35.50000        -80.63300         Kannapolis,NC        
++12.05000         +8.52500          Kano,Nigeria        
++39.11780        -94.64000        Kansas_City,KS        
++39.08220        -94.58890        Kansas_City,MO        
++22.10000       -159.33300              Kapaa,HI        
++20.96610       -156.67700            Kapalua,HI        
++49.42000        -82.50000        Kapuskasing,ON        
++24.90000        +67.15000      Karachi,Pakistan        
++51.32400         +9.37200        Kassel,Germany        
++27.81670        +85.35000       Kathmandu,Nepal        
++21.10000       -156.98300         Kaunakakai,HI        
++19.73560       -156.04900            Keahole,HI        
++40.69830        -99.08330            Kearney,NE        
++42.93330        -71.28000              Keene,NH        
++64.00000        -22.61700      Keflavik,Iceland        
++21.95000       -159.70000             Kekaha,HI        
++46.14861       -122.88100              Kelso,WA        
++60.55000       -151.26700              Kenai,AK        
++43.40000        -70.55000          Kennebunk,ME        
++29.98330        -90.24170             Kenner,LA        
++49.80000        -94.35000             Kenora,ON        
++42.59530        -87.83640            Kenosha,WI        
++55.34170       -131.64700          Ketchikan,AK        
++39.68670        -84.17000          Kettering,OH        
++35.53670        +24.15000         Khania,Greece        
++15.56670        +32.60000        Khartoum,Sudan        
++54.31670        +10.13330          Kiel,Germany        
++5.65000       +169.11670     Kili,Marshall_Is.         
++41.23300       -103.68300            Kimball,NE        
++38.20000        -77.02000        King_George,VA        
++58.68000       -156.65000        King_Salmon,AK        
++35.16700       -114.08300            Kingman,AZ        
+-26.80000       +153.10000 Kings_Beach,Australia        
++36.54500        -82.54330          Kingsport,TN        
++18.00000        -76.74990      Kingston,Jamaica        
++44.22000        -76.60000           Kingston,ON        
+-4.38300        +15.45000        Kinshasa,Zaire         
++28.28300        -81.41700          Kissimmee,FL        
++38.76700       -102.80000         Kit_Carson,CO        
++43.25000        -80.33000          Kitchener,ON        
++42.21700       -121.81700      Klamath_Falls,OR        
++35.79670        -78.43920         Knightdale,NC        
++35.96080        -83.91860          Knoxville,TN        
++57.78830       -152.40300             Kodiak,AK        
++20.00440       -155.67100             Kohala,HI        
++21.26830       -157.70600          Koko_Head,HI        
++40.50000        -86.33300             Kokomo,IN        
++50.83670         +7.15000  Koln/Bonn_AB,Germany        
++21.89167       -159.45000              Koloa,HI        
++19.65750       -156.02800               Kona,HI        
++14.93670       +102.08330        Korat,Thailand        
++5.36750       +162.97640     Kosrae,Micronesia         
++5.93670       +116.05000 Kota_Kinabalu,Malaysi         
++66.90000       -162.60000           Kotzebue,AK        
++3.13330       +101.70000 Kuala_Lumpur,Malaysia         
++1.48670       +110.33330      Kuching,Malaysia         
++28.38330       -178.30000             Kure_Island        
++29.06670        +47.98330             Kuwait_City        
++9.00000       +167.60000         Kwajalein_Atoll         
++35.00000       +135.76670           Kyoto,Japan        
++42.05000        -73.75000    L._Taghkanic_St._Pk.        
++43.80000        -91.24500          La_Crosse,WI        
++45.33300       -118.10000          La_Grande,OR        
++33.01700        -85.00000          La_Grange,GA        
++32.76830       -117.04200            La_Mesa,CA        
+-16.51700        -68.18300        La_Paz,Bolivia        
++46.16670         -1.14990    La_Rochelle,France        
++34.08300       -117.78300           La_Verne,CA        
++43.52670        -71.47000            Laconia,NH        
++40.41970        -86.89420          Lafayette,IN        
++30.22500        -92.02000          Lafayette,LA        
++6.58300         +3.03300         Lagos,Nigeria         
++32.00000        +74.30000       Lahore,Pakistan        
++48.37000         +7.82600          Lahr,Germany        
++38.77000        -27.10000          Lajes,Azores        
++30.22830        -93.21670       Lake_Charles,LA        
++30.15000        -82.66700          Lake_City,FL        
++45.41700       -122.66700        Lake_Oswego,OR        
++42.33000        -88.07780         Lake_Villa,IL        
++33.33300        -91.28300       Lake_Village,AR        
++28.00070        -81.56040           Lakeland,FL        
++33.95000       -118.13700           Lakewood,CA        
++39.74000       -105.07800           Lakewood,CO        
++39.74000       -105.07800           Lakewood,CO        
++41.48670        -81.80330           Lakewood,OH        
++48.06700        -98.35000             Lakota,ND        
++38.06700       -102.73300              Lamar,CO        
++20.83300       -156.93300         Lanai_City,HI        
++44.41700        -71.50000          Lancaster,NH        
++40.04030        -76.30800          Lancaster,PA        
++42.83500       -108.73300             Lander,WY        
++42.73360        -84.55420            Lansing,MI        
++43.05970        -83.28530             LaPeer,MI        
++41.31170       -105.58500            Laramie,WY        
++27.50610        -99.50830             Laredo,TX        
++27.91830        -82.79000              Largo,FL        
++32.31170       -106.77800         Las_Cruces,NM        
++27.93300        -15.38290 Las_Palmas,Canary_Is.        
++36.17220       -115.14400          Las_Vegas,NV        
+-35.35000       +149.17000      Latham,Australia        
++38.50000        -75.66700             Laurel,DE        
++39.10000        -76.85000             Laurel,MD        
++31.68830        -89.13330             Laurel,MS        
++45.49900        -73.60400              Laval,PQ        
++38.96330        -95.23830           Lawrence,KS        
++42.70440        -71.16890           Lawrence,MA        
++34.61170        -98.41170             Lawton,OK        
++41.06170       -111.96300             Layton,UT        
++49.51670         +0.11670       Le_Havre,France        
+-22.23670       +114.08330   Learmonth,Australia        
++39.31170        -94.91330        Leavenworth,KS        
++47.58300       -120.65000        Leavenworth,WA        
++37.53300        -85.25000            Lebanon,KY        
++37.66700        -92.71700            Lebanon,MO        
++43.66700        -72.25000            Lebanon,NH        
++48.18300        +10.84000  Lechfeld_AFB,BY,Germ        
++54.78900         +8.94200          Leck,Germany        
++53.80000         -1.54990         Leeds,England        
++51.40900        +12.22400       Leipzig,Germany        
++45.91700       -102.16700             Lemmon,SD        
++59.95000        +30.33330      Leningrad,Russia        
++49.62000       -112.78000         Lethbridge,AB        
++38.75000        -75.16700              Lewes,DE        
++37.83300        -80.33300          Lewisburg,WV        
++46.41170       -117.02000           Lewiston,ID        
++44.09670        -70.21830           Lewiston,ME        
++43.16917        -79.00170           Lewiston,NY        
++47.08300       -109.41700          Lewistown,MT        
++38.04720        -84.49610          Lexington,KY        
++29.68330        +91.20000           Lhasa,Tibet        
++0.60000         +9.30000      Libreville,Gabon         
++21.98000       -159.37500              Lihue,HI        
++40.74300        -84.10550               Lima,OH        
+-12.09990        -76.91660             Lima,Peru        
++40.85080        -96.75890       Lincoln_Muni,NE        
++39.03300        -98.13300            Lincoln,KS        
++45.38300        -68.51700            Lincoln,ME        
++40.81640        -96.70420            Lincoln,NE        
++40.69720        -73.35690        Lindenhurst,NY        
++48.23330        +14.19000          Linz,Austria        
++46.35000        -97.71700             Lisbon,ND        
++38.70000         -9.08340       Lisbon,Portugal        
++34.74500        -92.27690        Little_Rock,AR        
++44.25000        -71.75000          Littleton,NH        
++53.41670         -2.86660     Liverpool,England        
++32.58300        -88.15000         Livingston,AL        
++45.66330       -110.56300         Livingston,MT        
++42.38330        -83.37500            Livonia,MI        
++34.44590       -119.05300    Lockwood_Valley,CA        
++41.74000       -111.82800              Logan,UT        
++46.75000       -114.08300               Lolo,MT        
++34.68000       -120.45000             Lompoc,CA        
++51.50000         -0.11670        London,England        
++43.00000        -81.25000             London,ON        
++33.77060       -118.18800         Long_Beach,CA        
++32.49170        -94.73330           Longview,TX        
++46.10550       -123.00600           Longview,WA        
++41.46800        -82.18030             Lorain,OH        
++32.33300       -108.75000          Lordsburg,NM        
++35.88300       -106.33300         Los_Alamos,NM        
++37.34398       -122.12500    Los_Altos_Hills,CA        
++34.05420       -118.24100        Los_Angeles,CA        
++32.98640        -82.38580         Louisville,GA        
++38.24640        -85.76360         Louisville,KY        
++38.24639        -85.76360         Louisville,KY        
++38.25000        -85.76670         Louisville,KY        
++40.21000       -105.06000           Loveland,CO        
++40.16700       -118.61700           Lovelock,NV        
++42.64030        -71.32050             Lowell,MA        
++33.58470       -101.84300            Lubbock,TX        
++49.48500         +8.38300  Ludwigshafen,Germany        
+-15.33300        +28.45000         Lusaka,Zambia        
++49.61700         +6.20000         Luxembourg_City        
++37.41500        -79.14330          Lynchburg,VA        
++48.93300       -122.45000             Lynden,WA        
++30.24750        -85.67190         Lynn_Haven,FL        
++42.46330        -70.94830               Lynn,MA        
++45.73330         +4.86670           Lyon,France        
++22.00000       +113.00000                   Macao        
++43.91700       -113.63300             Mackay,ID        
++32.83670        -83.62670              Macon,GA        
++44.05000        -94.38300            Madelia,MN        
++34.69180        -86.76140            Madison,AL        
++44.00670        -97.11330            Madison,SD        
++43.06667        -89.36670            Madison,WI        
++43.07300        -89.38190            Madison,WI        
++13.00000        +80.18300          Madras,India        
++40.43330         -3.70000          Madrid,Spain        
++34.16700       -107.75000          Magdalena,NM        
++33.26250        -93.23470           Magnolia,AR        
++10.60000        -66.98330   Maiquetia,Venezuela        
++7.06333       +171.26970   Majuro,Marshall_Is.         
++42.42330        -71.06670             Malden,MA        
++4.00000        +73.00000      Male,Maldive_Is.         
++8.70830       +171.23330 Maloelap,Marshall_Is.         
++44.83300        -74.33300             Malone,NY        
++35.86700        +14.48300                   Malta        
++12.16670        -86.26660     Managua,Nicaragua        
+-3.03330        -60.05000         Manaus,Brazil         
++41.78330        -72.52330         Manchester,CT        
++53.46670         -2.23320    Manchester,England        
++42.99110        -71.46140         Manchester,NH        
++22.00000        +96.13330      Mandalay,Myanmar        
++46.82670       -100.89500             Mandan,ND        
++34.90000        -99.51700             Mangum,OK        
++33.89742       -118.39600    Manhattan_Beach,CA        
++33.87200       -118.39800    Manhattan_Beach,CA        
++39.18330        -96.57500          Manhattan,KS        
++14.61670       +121.00000    Manila,Philippines        
++44.08300        -87.70000          Manitowoc,WI        
++49.47100         +8.50000      Mannheim,Germany        
++40.75670        -82.51670          Mansfield,OH        
++40.45500       -121.77300             Manton,CA        
++44.05000        -92.45000        Mantorville,MN        
++33.95000        -84.54670           Marietta,GA        
++36.80000        -81.55000             Marion,VA        
++39.88300        -74.91700            Marlton,NJ        
++46.53300        -87.41700          Marquette,MI        
++43.30000         +5.41670      Marseille,France        
++43.30000         +5.41670      Marseille,France        
++32.55000        -94.38330           Marshall,TX        
++39.50000        -78.00000        Martinsburg,WV        
++36.66700        -79.88300       Martinsville,VA        
++42.50220        -70.51280            Mashpee,MA        
++43.13300        -93.23300         Mason_City,IA        
++34.79800        -82.29900            Mauldin,SC        
++18.25000        -67.15000           Mayaguez,PR        
++38.58300        -83.75000          Maysville,KY        
++34.91700        -95.75000         Mc_Alester,OK        
++40.21700       -100.61700            Mc_Cook,NE        
++39.41700       -114.78300            Mc_Gill,NV        
++30.96700        -92.53300            Mc_Nary,LA        
++26.20330        -98.23000            McAllen,TX        
++26.20330        -98.23000            McAllen,TX        
++62.90000       -155.60000            McGrath,AK        
++40.35000        -79.85000         McKeesport,PA        
++34.16700       -109.91700             McNary,AZ        
++42.41830        -71.10670            Medford,MA        
++42.32330       -122.86700            Medford,OR        
++50.03000       -110.73000       Medicine_Hat,AB        
+-37.86660       +145.13330   Melbourne,Australia        
++28.08300        -80.61700          Melbourne,FL        
++51.22000         +2.08000      Melksham,England        
++41.88000        -87.64000       Melrose_Park,IL        
++35.14610        -90.05360            Memphis,TN        
++34.58300        -94.15000               Mena,AR        
++43.58300        -71.58300           Meredith,NH        
++41.53500        -72.79170            Meriden,CT        
++32.36670        -88.70000           Meridian,MS        
++34.76670        -86.55000      Meridianville,AL        
++42.81830        -70.81170          Merrimack,NH        
++28.38000        -80.70000     Merritt_Island,FL        
++33.41500       -111.82800               Mesa,AZ        
++32.76500        -96.59670           Mesquite,TX        
++30.00000        -90.18300           Metairie,LA        
++19.46670        -99.14990    Mexico_City,Mexico        
++39.16670        -91.83330             Mexico,MO        
++25.78830        -80.13000        Miami_Beach,FL        
++25.77690        -80.19220              Miami,FL        
++41.25000       -116.83300              Midas,NV        
++44.00000        -73.16700         Middlebury,VT        
++39.50000        -75.66700         Middletown,DE        
++31.99500       -102.07800            Midland,TX        
++28.20000       -177.38300           Midway_Island        
++35.45000        -97.39170       Midwest_City,OK        
++45.48330         +9.20000           Milan,Italy        
++45.21700        -96.63300            Milbank,SD        
++41.22500        -73.06000            Milford,CT        
++38.91700        -75.41700            Milford,DE        
++42.81820        -71.72090            Milford,NH        
++38.33300       -113.08300            Milford,UT        
++6.08330       +171.73330     Mili,Marshall_Is.         
++33.08300        -83.25000      Milledgeville,GA        
++44.51700        -99.00000             Miller,SD        
++45.66700        -68.73300        Millinocket,ME        
++39.36830        -75.07490          Millville,NJ        
++37.37670       -122.03300           Milpitas,CA        
++43.03860        -87.90420          Milwaukee,WI        
++40.87500        -74.61300          Mine_Hill,NJ        
++44.98250        -93.26190        Minneapolis,MN        
++44.94000        -93.44330         Minnetonka,MN        
++48.23830       -101.29700              Minot,ND        
++47.10000        -56.40000            Miquelon_Is.        
++32.86670       -117.15000        Miramar_NAS,CA        
++26.01000        -80.15000            Miramar,FL        
++41.71280        -86.18460          Mishawaka,IN        
++43.59000        -79.46000        Mississauga,ON        
++46.86170       -114.00800           Missoula,MT        
++43.54330        -98.02500           Mitchell,SD        
++30.69330        -88.04250             Mobile,AL        
++45.53300       -100.43300           Mobridge,SD        
++37.64330       -121.00200            Modesto,CA        
++36.11700       -111.21700           Moenkopi,AZ        
++41.50860        -90.51360             Moline,IL        
++21.15611       -157.09900            Molokai,HI        
++43.71670         +7.78330                  Monaco        
++46.11000        -64.67000            Moncton,NB        
++32.50000        -92.11670             Monroe,LA        
++6.25000        -10.35000      Monrovia,Liberia         
++48.60000        -68.22000          Mont-Joli,PQ        
++34.00000       -118.10000         Montebello,CA        
++18.50000        -77.91670   Montego_Bay,Jamaica        
++34.06170       -118.12700      Monterey_Park,CA        
++36.60000       -121.88300           Monterey,CA        
+-34.83320        -56.16660    Montevideo,Uruguay        
++32.37580        -86.30860         Montgomery,AL        
++40.08300        -88.58300         Monticello,IN        
++46.31700        -67.88300         Monticello,ME        
++37.91700       -109.41700         Monticello,UT        
++42.34000        -76.79000      Montour_Falls,NY        
++40.58300        -85.33300         Montpelier,IN        
++44.26000        -72.57800         Montpelier,VT        
++43.63330         +3.88330    Montpellier,France        
++45.50000        -73.58000           Montreal,PQ        
++35.33670        -97.48830              Moore,OK        
++50.37000       -105.53000       Moose_Jaw,Sask.        
++38.16700        -83.41700           Morehead,KY        
++29.69830        -91.20670        Morgan_City,LA        
++39.63170        -79.95330         Morgantown,WV        
++37.18330         -5.61330        Moron_AB,Spain        
++40.80000        -74.48300         Morristown,NJ        
++36.16700        -83.30000         Morristown,TN        
++33.59000        -84.32800             Morrow,GA        
++46.73330       -117.00000             Moscow,ID        
++55.75000        +37.61670         Moscow,Russia        
++47.13300       -119.25000         Moses_Lake,WA        
+-77.45700       +167.08000 Mount_Erebus,Antarcti        
++31.68880       -110.88400      Mount_Hopkins,AZ        
++40.91000        -73.82500       Mount_Vernon,NY        
++33.49830        -86.75330     Mountain_Brook,AL        
++43.05000       -115.86700  Mountain_Home_AFB,ID        
++37.38830       -122.08000      Mountain_View,CA        
++36.98300        -91.76700      Mountain_View,MO        
++40.19110        -85.38780             Muncie,IN        
++41.24220        -75.88800              Muncy,PA        
++48.13330        +11.58330        Munich,Germany        
++35.84830        -86.39170       Murfreesboro,TN        
++40.66000       -111.88700             Murray,UT        
++43.25000        -86.33300           Muskegon,MI        
++35.74500        -95.36670           Muskogee,OK        
++33.70000        -78.88300       Myrtle_Beach,SC        
++12.14000        +15.04000        N'djamina,Chad        
++40.69240        -73.54870        N._Bellmore,NY        
++39.00000        -74.56000        N._Cape_May,NJ        
++32.88500        -80.00000      N._Charleston,SC        
++34.13330       -118.41700       N._Hollywood,CA        
++36.20330       -115.11200       N._Las_Vegas,NV        
++34.75500        -92.26670     N._Little_Rock,AR        
++19.00000       -155.58300            Naalehu,HI        
++32.91670       +129.91670        Nagasaki,Japan        
++35.25000       +136.91670          Nagoya,Japan        
++21.08330        +79.05000          Nagpur,India        
+-1.28320        +36.81670         Nairobi,Kenya         
++5.63167       +168.12500  Namorik,Marshall_Is.         
++43.57330       -116.56200              Nampa,ID        
+-17.75000       +177.45000            Nandi,Fiji        
++38.30000       -122.29000               Napa,CA        
++41.75000        -88.16670         Naperville,IL        
++26.11700        -81.76700             Naples,FL        
++40.61670        +14.20000          Naples,Italy        
++42.78300        -71.38300             Nashua,NH        
++36.15920        -86.78190          Nashville,TN        
++25.05000        -77.46700        Nassau,Bahamas        
+-5.30000        -35.80000          Natal,Brazil         
++31.56330        -91.39170            Natchez,MS        
++34.85000       -114.65000            Needles,CA        
++36.28800       -115.11900         Nellis_AFB,NV        
++64.57000       -149.07000             Nenana,AK        
++43.56700        -73.86700           Neponsit,NY        
++37.81700        -94.35000             Nevada,MO        
++38.28300        -85.81700         New_Albany,IN        
++41.63690        -70.92810        New_Bedford,MA        
++41.66890        -72.78310        New_Britian,CT        
++40.48300        -74.45000      New_Brunswick,NJ        
++38.92000        -77.06750     New_Carrollton,MD        
+-32.80000       +151.83330  New_Castle,Australia        
++39.66330        -75.56170         New_Castle,DE        
++39.91700        -85.41700         New_Castle,IN        
++41.00000        -80.41700         New_Castle,PA        
++28.90000        +77.21670       New_Delhi,India        
++43.05000        -92.33300        New_Hampton,IA        
++41.87500        -73.04170       New_Hartford,CT        
++41.30690        -72.92500          New_Haven,CT        
++30.01170        -91.82330         New_Iberia,LA        
++41.33300        -72.08300         New_London,CT        
++44.96700       -116.33300        New_Meadows,ID        
++29.94800        -90.06940        New_Orleans,LA        
++40.90830        -73.78170       New_Rochelle,NY        
++47.66700        -99.13300       New_Rockford,ND        
++39.31360       -119.78600    New_Washoe_City,CA        
++40.75170        -73.99420           New_York,NY        
++39.68330        -75.75830             Newark,DE        
++40.73720        -74.17190             Newark,NJ        
++53.01670         -2.23320     Newcastle,England        
++44.71700       -103.43300             Newell,SD        
++33.62000       -117.92700      Newport_Beach,CA        
++36.97670        -76.41830       Newport_News,VA        
++39.08830        -84.49500            Newport,KY        
++43.33300        -72.16700            Newport,NH        
++44.65000       -124.03300            Newport,OR        
++41.48170        -71.31670            Newport,RI        
++44.91700        -72.25000            Newport,VT        
++42.34830        -71.19000             Newton,MA        
++41.05000        -74.75000             Newton,NJ        
++43.09280        -79.05720      Niagara_Falls,NY        
++43.70000         +7.35000           Nice,France        
++35.15000        +33.28300        Nicosia,Cyprus        
++38.41700        -81.83300              Nitro,WV        
++31.33300       -110.91700            Nogales,AZ        
++64.50000       -165.41700               Nome,AK        
++33.91833       -117.52800              Norco,CA        
++42.02830        -97.41670            Norfolk,NE        
++36.85280        -76.28920            Norfolk,VA        
++35.21670        -97.44000             Norman,OK        
++46.32000        -79.46000          North_Bay,ON        
++41.35000        -81.96670     North_Olmstead,OH        
++41.13830       -100.76200       North_Platte,NE        
++44.46700        -93.18300         Northfield,MN        
++48.88300       -117.78300          Northport,WA        
++32.70000       -106.33000     Northrop_Strip,NM        
++62.97000       -141.93000           Northway,AK        
++39.66700        -99.90000             Norton,KS        
++36.90000        -82.60000             Norton,VA        
++33.90170       -118.08000            Norwalk,CA        
++41.12330        -73.36500            Norwalk,CT        
++44.18300        -70.58300             Norway,ME        
++52.96670         -1.14990    Nottingham,England        
++47.50430         +2.00280          Nouan,France        
+-22.30000       +166.80000  Noumea,New_Caledonia        
++42.47500        -83.52500               Novi,MI        
++49.45000        +11.09900   Nurnberg,BY,Germany        
++41.90000        -87.78320           Oak_Park,IL        
++36.01170        -84.26670          Oak_Ridge,TN        
++46.13300        -68.16700           Oakfield,ME        
++37.80080       -122.26500            Oakland,CA        
++39.13300       -100.81700             Oakley,KS        
++41.26420        -82.25670            Oberlin,OH        
++48.07500        +11.28300 Oberpfaffenhofen,Germ        
++29.18300        -82.15000              Ocala,FL        
++38.33300        -75.16700         Ocean_City,MD        
++40.16700        -74.00000        Ocean_Grove,NJ        
++33.19830       -117.37700          Oceanside,CA        
++31.85830       -102.37500             Odessa,TX        
++41.13300       -101.73300           Ogallala,NE        
++41.22530       -111.97300              Ogden,UT        
+-40.20000       +175.38330    Ohakea,New_Zealand        
++26.35000       +127.76670         Okinawa,Japan        
++35.47390        -97.51780      Oklahoma_City,OK        
++38.88500        -94.82170             Olathe,KS        
++52.29420         +8.54360     Oldendorf,Germany        
++42.08300        -78.41700              Olean,NY        
++47.03330       -122.96700            Olympia,WA        
++41.26170        -95.93720              Omaha,NE        
++34.06170       -117.65000            Ontario,CA        
++51.13000         +2.55000      Oostende,Belgium        
++32.64830        -85.38500            Opelika,AL        
++48.85000       -106.31700             Opheim,MT        
++35.76670         -0.74990          Oran,Algeria        
++30.11000        -81.44000        Orange_Park,FL        
++30.15860        -81.73300        Orange_Park,FL        
++33.78670       -117.85000             Orange,CA        
++41.25000        -73.00000             Orange,CT        
++33.50000        -80.83300         Orangeburg,SC        
++40.31170       -111.70000               Orem,UT        
++28.54500        -81.37720            Orlando,FL        
++47.91670         +1.93330        Orleans,France        
++34.78300       +135.45000           Osaka,Japan        
++39.41700        -98.70000            Osborne,KS        
++44.02170        -88.54500            Oshkosh,WI        
++59.93330        +10.68330           Oslo,Norway        
++45.42000        -75.67000             Ottawa,ON        
++41.00000        -92.43300            Ottumwa,IA        
++38.97000        -94.66670      Overland_Park,KS        
++37.76830        -87.11330          Owensboro,KY        
++34.36700        -89.50000             Oxford,MS        
++36.28300        -78.58300             Oxford,NC        
++34.20500       -119.17500             Oxnard,CA        
++35.48300        -93.81700              Ozark,AR        
++20.05000       -155.41700            Paauilo,HI        
++32.73330       -117.16700      Pacific_Beach,CA        
++38.47000        -90.76500            Pacific,MO        
++37.08690        -88.59890            Paducah,KY        
++18.12444       +145.76860            Pagan_Island        
+-14.33300       -170.71700       Pago_Pago,Samoa        
+-2.90000       +104.70000   Palembang,Indonesia         
++27.11000        -80.11000          Palm_City,FL        
++34.99590       -118.11700           Palmdale,CA        
++61.60000       -149.10000             Palmer,AK        
++37.44170       -122.16300          Palo_Alto,CA        
++30.13300        -85.65000        Panama_City,FL        
++9.06700        -79.38300    Panama_City,Panama         
+-17.56700       -149.61700        Papeete,Tahiti        
++36.10000       -115.11700           Paradise,NV        
++48.85000         +2.33330          Paris,France        
++39.58300        -87.66700              Paris,IL        
++46.88300        -95.08300        Park_Rapids,MN        
++36.75000       -106.50000          Park_View,NM        
++39.26670        -81.55830        Parkersburg,WV        
++41.38500        -81.71170              Parma,OH        
++39.08300        -79.66700            Parsons,WV        
++34.14560       -118.14500           Pasadena,CA        
++29.71330        -95.21170           Pasadena,TX        
++30.35330        -88.54670         Pascagoula,MS        
++40.91690        -74.17250           Paterson,NJ        
++41.87830        -71.38330          Pawtucket,RI        
++56.23000       -117.40000        Peace_River,AB        
+-31.66670       +116.01670      Pearce,Australia        
++48.96700        -97.25000            Pembina,ND        
++5.30000       +100.28330       Penang,Malaysia         
++45.68300       -118.78300          Pendleton,OR        
++30.41420        -87.21550          Pensacola,FL        
++40.69500        -89.59250             Peoria,IL        
++40.51700        -74.26700        Perth_Amboy,NJ        
+-31.83320       +116.16670       Perth,Australia        
++41.33300        -89.16700               Peru,IL        
++34.00000        +71.51330     Peshawar,Pakistan        
++56.81000       -132.95000         Petersburg,AK        
++37.20000        -77.50000         Petersburg,VA        
++32.46330        -85.00330        Phenix_City,AL        
++39.94940        -75.15580       Philadelphia,PA        
++44.05000       -101.58300             Philip,SD        
++33.45330       -112.07400            Phoenix,AZ        
++8.11670        +98.31670       Phuket,Thailand         
++30.52500        -89.67830           Picayune,MS        
++34.00000       -118.08300        Pico_Rivera,CA        
++42.18300        -97.55000             Pierce,NE        
++44.37170       -100.34800             Pierre,SD        
++38.82783       -120.97800         Pilot_Hill,CA        
++34.22330        -92.01670         Pine_Bluff,AR        
++45.83300        -93.01700          Pine_City,MN        
+-25.06660       -130.08300         Pitcairn_Island        
++40.43860        -80.00000         Pittsburgh,PA        
++42.44800        -73.25390         Pittsfield,MA        
++38.70970       -120.68300        Placerville,CA        
++40.63300        -74.41700         Plainfield,NJ        
+-20.43330        +57.70000   Plaisance,Mauritius        
++33.02000        -96.70000              Plano,TX        
++44.65000        -73.46670    Plattsburgh_AFB,NY        
++44.66700        -73.50000        Plattsburgh,NY        
++42.00000        -70.75000           Plymouth,MA        
++44.98250        -93.26190           Plymouth,MN        
++43.83300        -71.66700           Plymouth,NH        
++42.87330       -112.45000          Pocatello,ID        
++38.08300        -75.58300      Pocomoke_City,MD        
++6.98472       +158.21530    Pohnpei,Micronesia         
++68.30000       -166.63300         Point_Hope,AK        
++47.66700       -114.16700             Polson,MT        
++34.06170       -117.75000             Pomona,CA        
++26.23330        -80.12500      Pompano_Beach,FL        
++36.70700        -97.00920         Ponca_City,OK        
++36.70700        -97.00920         Ponca_City,OK        
++18.01670        -66.56670              Ponce,PR        
++42.63670        -83.29170            Pontiac,MI        
++36.71700        -90.36700       Poplar_Bluff,MO        
++48.13300       -105.16700             Poplar,MT        
++21.90000       -159.60600         Port_Allen,HI        
++29.87500        -93.93750        Port_Arthur,TX        
++43.00000        -82.50000         Port_Huron,MI        
+-9.45000       +147.21670    Port_Moresby,Papua         
++10.60000        -61.35000 Port_of_Spain,Trinida        
++27.20000        -80.20000       Port_Salerno,FL        
++29.46700        -89.68300       Port_Sulphur,LA        
++18.58330        -72.33320  Port-au-Prince,Haiti        
++43.65920        -70.25530           Portland,ME        
++45.51830       -122.67600           Portland,OR        
++50.75000         -1.04990    Portsmouth,England        
++43.07500        -70.75670         Portsmouth,NH        
++38.75000        -83.00000         Portsmouth,OH        
++36.83530        -76.30390         Portsmouth,VA        
++39.03888        -77.17500            Potomac,MD        
++40.25000        -75.66700          Pottstown,PA        
++41.75000        -73.91700       Poughkeepsie,NY        
++50.08330        +14.43330     Prague,Czech_Rep.        
++37.38550        -98.43560              Pratt,KS        
++34.54670       -112.47200           Prescott,AZ        
++42.08300       -111.90000            Preston,ID        
+-25.85000        +28.00000    Pretoria,S._Africa        
++43.05000        -95.35000           Primghar,IA        
++55.39670       -111.12500      Prince_Albert,SK        
++53.92000       -122.69000      Prince_George,BC        
++54.31000       -130.38000      Prince_Rupert,BC        
++40.38300        -93.56700          Princeton,MO        
++40.35000        -74.66700          Princeton,NJ        
++37.35000        -81.08300          Princeton,WV        
++43.66700        -73.00000            Proctor,VT        
++46.12000       -119.46000            Prosser,WA        
++41.82550        -71.41140         Providence,RI        
++40.23500       -111.65700              Provo,UT        
++70.27000       -148.34000        Prudhoe_Bay,AK        
++38.27140       -104.60900             Pueblo,CO        
+-41.43330        -73.10000    Puerto_Montt,Chile        
++18.34170        -65.62140        Puerto_Real,PR        
++41.91700        -71.91700             Putnam,CT        
++47.12607       -122.25900           Puyallup,WA        
++47.27750       -122.51100           Puyallup,WA        
++40.46530        -75.37220         Quakertown,PA        
++46.75000        -71.17000             Quebec,PQ        
++42.25170        -71.00170             Quincy,MA        
+-0.13300        -78.48300         Quito,Ecuador         
++32.18330        +34.87500        Raanana,Israel        
++34.05000         -6.75000         Rabat,Morocco        
++42.73030        -87.78670             Racine,WI        
++35.77720        -78.63920            Raleigh,NC        
++49.43300         +7.60000   Ramstein_AB,Germany        
++33.76750       -118.40300  Rancho_Palos_Verdes_CA        
++43.91700        -72.66700           Randolph,VT        
++45.00000        -70.41700           Rangeley,ME        
++16.76670        +96.15000       Rangoon,Myanmar        
++44.08000       -103.22800         Rapid_City,SD        
++33.61700        +73.10000   Rawalpindi,Pakistan        
++41.79000       -107.23800            Rawlins,WY        
++40.33580        -75.92780            Reading,PA        
+-8.13300        -34.93300         Recife,Brazil         
++40.60000       -122.41700            Redding,CA        
++33.82670       -118.38700      Redondo_Beach,CA        
++37.46670       -122.25000       Redwood_City,CA        
++49.12000        +49.02700    Regensburg,Germany        
++50.50000       -104.50000             Regina,SK        
++49.26670         +4.00000          Reims,France        
++48.11670         -1.03320         Rennes,France        
++39.52420       -119.81100               Reno,NV        
++34.20000       -118.53300             Reseda,CA        
++43.82330       -111.78500            Rexburg,ID        
++64.15000        -21.90000     Reykjavik,Iceland        
++45.65000        -89.41700        Rhinelander,WI        
++32.95330        -96.72500         Richardson,TX        
++46.28300       -119.31700           Richland,WA        
+-33.60000       +150.78330    Richmond,Australia        
++37.93670       -122.34700           Richmond,CA        
++37.75000        -84.33300           Richmond,KY        
++41.91700       -111.83300           Richmond,UT        
++37.53750        -77.43580           Richmond,VA        
++39.58300       -107.83300              Rifle,CO        
+-22.45000        -42.71700 Rio_de_Janeiro,Brazil        
++33.98000       -117.36500          Riverside,CA        
++43.02500       -108.38500           Riverton,WY        
++24.51670        +46.78330   Riyadh,Saudi_Arabia        
++37.27030        -79.94550            Roanoke,VA        
++39.83300        -87.80000           Robinson,IL        
++53.60000         +2.10000 Rochdale,Lanc,England        
++42.68330        -83.13330    Rochester_Hills,MI        
++44.02250        -92.46750          Rochester,MN        
++43.30330        -70.97500          Rochester,NH        
++43.16140        -77.60580          Rochester,NY        
++34.92830        -81.02330          Rock_Hill,SC        
++41.58500       -109.22500       Rock_Springs,WY        
++42.26860        -89.09670           Rockford,IL        
++44.09170        -69.10420           Rockland,ME        
++40.41700        -95.50000           Rockport,MO        
++39.08000        -77.10000          Rockville,MD        
++39.08330        -77.14330          Rockville,MD        
++45.65000        -69.75000           Rockwood,ME        
++35.91700        -77.78300        Rocky_Mount,NC        
++36.28000        -94.28000             Rogers,AR        
++41.86670        +12.61670            Rome,Italy        
++18.25000        -65.63330    Roosevelt_Roads,PR        
++34.07000       -118.09000           Rosemead,CA        
++38.58250       -121.49500          Roseville,CA        
++42.50330        -82.93670          Roseville,MI        
++54.08300        +12.13300       Rostock,Germany        
++34.03300        -84.35000            Roswell,GA        
++33.39500       -104.52700            Roswell,NM        
++14.17333       +145.23890             Rota_Island        
++51.91670         +4.45000 Rotterdam,Netherlands        
++49.41670         +1.08330          Rouen,France        
++46.41700       -108.58300            Roundup,MT        
++34.00000       -117.87500    Rowland_Heights,CA        
++42.50670        -83.14670          Royal_Oak,MI        
++64.63300       -155.36700               Ruby,AK        
++48.36700       -100.00000              Rugby,ND        
++41.82000        -71.41000            Rumford,RI        
++38.85000        -98.85000            Russell,KS        
++32.52500        -92.63830             Ruston,LA        
++43.60830        -72.97170            Rutland,VT        
++43.63500        -70.25000        S._Portland,ME        
++43.50000        -70.44330               Saco,ME        
++38.66000       -121.32000         Sacramento,CA        
++38.58250       -121.49500         Sacramento,CA        
++43.43110        -83.93470            Saginaw,MI        
++32.51300        -97.22000            Saginaw,TX        
++15.12030       +145.73030           Saipan_Island        
+-38.10000       +147.15000        Sale,Australia        
++42.51700        -70.90000              Salem,MA        
++42.70000        -71.25000              Salem,NH        
++44.94000       -123.03300              Salem,OR        
++39.25000        -80.58300              Salem,WV        
++38.83500        -97.60830             Salina,KS        
++39.00000       -111.91700             Salina,UT        
++36.67000       -121.65200            Salinas,CA        
++38.33300        -75.66700          Salisbury,MD        
++35.45000        -94.80000           Sallisaw,OK        
++45.50000       -115.75000             Salmon,ID        
++40.75640       -111.89100     Salt_Lake_City,UT        
++33.24000       -115.95000        Salton_City,CA        
++47.78000        +13.00000      Salzburg,Austria        
++34.20000        +43.90500         Samarrah,Iraq        
++31.46080       -100.43400         San_Angelo,TX        
++29.42690        -98.48500        San_Antonio,TX        
++29.42690        -98.48500        San_Antonio,TX        
++34.10830       -117.29100     San_Bernardino,CA        
++32.71470       -117.15600          San_Diego,CA        
++37.77750       -122.41100      San_Francisco,CA        
++37.33780       -121.89000           San_Jose,CA        
++9.95000        -84.08320   San_Jose,Costa_Rica         
++18.45000        -66.00000           San_Juan,PR        
++37.72500       -122.15500        San_Leandro,CA        
++37.56330       -122.32300          San_Mateo,CA        
++33.73330       -118.28300          San_Pedro,CA        
++13.70000        -89.11700 San_Salvador,El_Salv.        
++35.21700       -109.33300            Sanders,AZ        
++33.00000        -82.46000       Sandersville,GA        
++51.34667         -0.80500   Sandhurst,Surry,ENG        
++48.28300       -116.56700          Sandpoint,ID        
++43.44170        -70.77670            Sanford,ME        
++33.76330       -117.86500          Santa_Ana,CA        
++34.42170       -119.69900      Santa_Barbara,CA        
++37.34500       -121.94700        Santa_Clara,CA        
+-17.65000        -63.13330    Santa_Cruz,Bolivia        
++35.68640       -105.93600           Santa_Fe,NM        
++34.89890       -120.45600        Santa_Maria,CA        
++34.01330       -118.48500       Santa_Monica,CA        
++38.44000       -122.71500         Santa_Rosa,CA        
++34.91700       -104.68300         Santa_Rosa,NM        
+-33.43320        -70.66660        Santiago,Chile        
++18.43670        -69.66690 Santo_Domingo,Dom._Re        
+-23.56660        -46.63320      Sao_Paulo,Brazil        
++43.11700       +141.38300         Sapporo,Japan        
++43.83200        +18.33500       Sarajevo,Bosnia        
++27.33670        -82.53170           Sarasota,FL        
++41.66700        -99.63300            Sargent,NE        
++52.15000       -106.60000       Saskatoon,Sask.        
++46.48300        -84.35000   Sault_Ste._Marie,MI        
++32.07830        -81.09360           Savannah,GA        
++43.67000        -79.37000        Scarborough,ON        
++42.04000        -88.08000         Schaumburg,IL        
++42.81170        -73.92830        Schenectady,NY        
++41.46700        -97.08300           Schuyler,NE        
++33.48830       -111.92700         Scottsdale,AZ        
++41.40890        -75.66280           Scranton,PA        
++29.56370        -95.02560           Seabrook,TX        
++38.64170        -75.61170            Seaford,DE        
++33.77500       -117.99300         Seal_Beach,CA        
++47.60890       -122.33700            Seattle,WA        
++27.84000        -80.49710          Sebastian,FL        
++32.41670        -87.02330              Selma,AL        
++50.36920         +8.26640        Selter,Germany        
++37.58330       +127.05000        Seoul,S._Korea        
++50.22000        -66.31000          Sept-Iles,PQ        
++37.41700         -5.90000         Seville,Spain        
++60.10000       -149.45000             Seward,AK        
+-5.00000        +55.00000          Seychelles_Is.         
++35.88330        -83.71660            Seymour,TN        
++31.23300       +121.45000        Shanghai,China        
++52.70000         -8.91700       Shannon,Ireland        
++39.01330        -94.71500            Shawnee,KS        
++43.76000        -87.74830          Sheboygan,WI        
++53.38330         -1.46660     Sheffield,England        
++40.88170        -82.66170             Shelby,OH        
++35.50000        -86.46700        Shelbyville,TN        
++43.16700        -95.83300            Sheldon,IA        
++35.15522       -120.67200        Shell_Beach,CA        
++52.71000       +174.12000             Shemya,AK        
++45.40000        -71.77000         Sherbrooke,PQ        
++44.79670       -106.96200           Sheridan,WY        
++29.54000        +52.59000           Shiraz,Iran        
++42.93300       -114.40000           Shoshone,ID        
++32.51280        -93.74940         Shreveport,LA        
++66.91700       -157.33300           Shungnak,AK        
++2.35000       +111.83330         Sibu,Malaysia         
++37.40000        +14.92500      Sigonella,Sicily        
++39.00000        -77.00000      Silver_Spring,MD        
++34.26830       -118.77800        Simi_Valley,CA        
++1.36670       +103.75000               Singapore         
++42.49610        -96.40830         Sioux_City,IA        
++43.54300        -96.72640        Sioux_Falls,SD        
++50.07000        -91.92000      Sioux_Lookout,ON        
++49.40000        -94.00000      Sioux_Narrows,ON        
++57.05000       -135.36000              Sitka,AK        
++20.13330        +92.88330        Sittwe,Myanmar        
++42.04330        -87.74670             Skokie,IL        
++30.27500        -89.80170            Slidell,LA        
++39.30280        -75.60670             Smyrna,DE        
++42.65000       -111.61700       Soda_Springs,ID        
++55.42000        +12.35000       Soeborg,Denmark        
++42.71670        +23.33330        Sofia,Bulgaria        
++37.04000        -84.36000           Somerset,KY        
++40.51000        -74.56000           Somerset,NJ        
++42.35670        -71.05690         Somerville,MA        
++42.38750        -71.10190         Somerville,MA        
++40.56700        -74.61700         Somerville,NJ        
++67.02000        -50.72000     Sondrestrom,Gnld.        
++38.29830       -122.51300             Sonoma,CA        
++41.67580        -86.25030         South_Bend,IN        
++33.95500       -118.20500         South_Gate,CA        
++21.90361       -159.53200 South_Kauai_VORTAC,HI        
++50.90000         -1.49990   Southampton,England        
++40.88300        -72.40000        Southampton,NY        
++42.47500        -83.27670         Southfield,MI        
++41.63030        -72.87070        Southington,CT        
++39.53830       -119.75300             Sparks,NV        
++34.95080        -81.93500        Spartanburg,SC        
++61.18830       -149.91700            Spenard,AK        
++43.15000        -95.13300            Spencer,IA        
++47.65890       -117.42600            Spokane,WA        
++36.16700        -94.11700         Springdale,AR        
++39.79940        -89.64750        Springfield,IL        
++42.10580        -72.59220        Springfield,MA        
++37.21750        -93.29220        Springfield,MO        
++39.92720        -83.80800        Springfield,OH        
++44.05000       -123.02000        Springfield,OR        
++43.29670        -72.48170        Springfield,VT        
++45.50000        -73.58000      St-Hubert,Quebec        
++44.83300        -73.08300         St._Albans,VT        
++43.10000        -79.12000     St._Catherines,ON        
++38.78670        -90.48000        St._Charles,MO        
++42.49670        -82.88670   St._Clair_Shores,MI        
++45.56670        -94.17330          St._Cloud,MN        
++17.70000        -64.80000          St._Croix,VI        
++37.08300       -113.66700         St._George,UT        
++47.08000        -52.71000      St._John's,Nfld.        
++45.34000        -65.96000           St._John,NB        
++39.76580        -94.85060         St._Joseph,MO        
++44.94330        -93.35000     St._Louis_Park,MN        
++38.62920        -90.20610          St._Louis,MO        
++13.73330        -60.95000               St._Lucia        
++38.80000        -76.20000       St._Michales,MD        
++47.30000         -2.21660    St._Nazaire,France        
++44.95530        -93.10190           St._Paul,MN        
++27.77170        -82.63860     St._Petersburg,FL        
++59.95000        +30.33330 St._Petersburg,Russia        
++18.33330        -64.96670         St._Thomas,VI        
++41.05250        -73.54000           Stamford,CT        
+-51.76660        -57.98320  Stanley,Falkland_Is.        
++40.58330        -74.15000      Staten_Island,NY        
++34.75000        -80.90000        Statesville,NC        
++40.50000       -106.80000  Steamboat_Springs,CO        
++42.58330        -83.01670   Sterling_Heights,MI        
++41.78300        -89.65000           Sterling,IL        
++38.94470        -77.45580           Sterling,VA        
++40.36170        -80.61470       Steubenville,OH        
++47.08300        -68.13300          Stockholm,ME        
++59.38330        +18.00000      Stockholm,Sweden        
++37.95830       -121.28800           Stockton,CA        
++40.92000        -73.13000        Stony_Brook,NY        
++48.54000         +7.62600     Strasbourg,France        
++41.20000        -73.13330          Stratford,CT        
++42.70000        -87.90000         Sturtevant,WI        
++48.80000         +9.25000     Stuttgart,Germany        
++46.54000        -80.86000            Sudbury,ON        
++36.72830        -76.58000            Suffolk,VA        
++33.91830        -80.34670             Sumter,SC        
++34.25000       -118.37300         Sun_Valley,CA        
++37.37670       -122.03300          Sunnyvale,CA        
++26.14750        -80.25400            Sunrise,FL        
++46.72060        -92.10190           Superior,WI        
++35.59500        -82.55720          Swannanoa,NC        
++50.28000       -107.75000   Swift_Current,Sask.        
+-33.91660       +151.28330      Sydney,Australia        
++46.14000        -60.08000             Sydney,NS        
++43.05110        -76.15390           Syracuse,NY        
++38.13330        +46.23600           Tabriz,Iran        
++47.24970       -122.43800             Tacoma,WA        
+-17.55000       -149.60000                  Tahiti        
++22.25000       +114.20000     Tai_Tam,Hong_Kong        
++25.03330       +121.63330         Taipei,Taiwan        
+-4.56670        -81.25000           Talara,Peru         
++30.44500        -84.28170        Tallahassee,FL        
++27.94940        -82.45690              Tampa,FL        
++35.86670         -5.91660       Tangier,Morocco        
++8.70830       +171.23330            Taora_Island         
++42.22500        -83.26830             Taylor,MI        
++14.06670        -87.21670  Tegucigalpa,Honduras        
++35.75000        +51.50000           Tehran,Iran        
++50.55000         +3.51000    Teignmouth,England        
++32.01700        +34.88300       Tel_Aviv,Israel        
++33.41500       -111.92800              Tempe,AZ        
++1.38330       +103.71670      Tengah,Singapore         
++46.87472       -122.83500             Tenino,WA        
++23.86720       -166.28800        Tern_Island,HI        
++39.46750        -87.40720        Terre_Haute,IN        
++33.43000        -94.04170          Texarkana,AR        
++33.43000        -94.04170          Texarkana,TX        
++53.88000       -101.17000            The_Pas,MB        
++29.79500        -90.80670          Thibodaux,LA        
++31.91700        -87.71700        Thomasville,AL        
++39.86330       -104.96500           Thornton,CO        
++34.17170       -118.84000      Thousand_Oaks,CA        
++76.54000        -68.70000       Thule,Greenland        
++48.45000        -89.20000        Thunder_Bay,ON        
++31.41700        -83.56700             Tifton,GA        
++41.83860        -74.07000            Tillson,NY        
++48.48000        -81.33000            Timmins,ON        
++7.13333       +171.91670    Tinak,Marshall_Is.         
++14.99560       +145.61560           Tinian_Island        
++35.68330       +139.73330           Tokyo,Japan        
++41.65390        -83.54420             Toledo,OH        
++31.66700       -110.00000          Tombstone,AZ        
++39.05440        -95.67300             Topeka,KS        
++43.67000        -79.37000            Toronto,ON        
++33.82500       -118.30800           Torrance,CA        
++41.83300        -73.16700         Torrington,CT        
++43.61670         +1.45000       Toulouse,France        
++47.38330         +0.65000          Tours,France        
+-19.25000       +146.76670  Townsville,Australia        
++37.90000        +12.48300        Trapani,Sicily        
++44.75000        -85.66700      Traverse_City,MI        
++40.22060        -74.77030            Trenton,NJ        
++37.18300       -104.51700           Trinidad,CO        
++32.83330        +13.21670         Tripoli,Libya        
++46.36000        -72.68000     Trois-Rivieres,PQ        
++42.61000        -83.15000               Troy,MI        
++48.46700       -115.93300               Troy,MT        
++42.72920        -73.68280               Troy,NY        
++7.45528       +151.83720 Truk_Atoll,Micronesia         
++33.16700       -107.33300   Truth_or_Consequences        
++33.52000        -84.12000             Tucker,GA        
++32.22080       -110.96900             Tucson,AZ        
++35.18300       -103.71700          Tucumcari,NM        
++36.15330        -95.99280              Tulsa,OK        
++36.85000        +10.21700         Tunis,Tunisia        
++34.23300        -88.71700             Tupelo,MS        
++33.20500        -87.56670         Tuscaloosa,AL        
++42.56170       -114.47000         Twin_Falls,ID        
++32.34500        -95.30170              Tyler,TX        
++15.25000       +104.86670         Ubon,Thailand        
++17.38330       +102.80000   Udon-Thani,Thailand        
++52.97000        +10.52000        Uelzen,Germany        
+-5.06670       +119.55000 Ujung_Pandang,Indones         
++53.91000       -166.54000           Unalaska,AK        
++40.75330        -74.03830         Union_City,NJ        
++36.41700        -89.06700         Union_City,TN        
++38.66000        -90.33330    University_City,MO        
++20.20360       -155.84600        Upolu_Point,HI        
++20.26833       -155.86300              Upolu,HI        
++40.11170        -88.20170             Urbana,IL        
++43.10330        -75.22580              Utica,NY        
++11.23330       +169.85000   Utirik,Marshall_Is.        
++38.27000       -121.50000          Vacaville,CA        
++48.08000        -77.78000           Val-d'or,PQ        
++61.13000       -146.28000             Valdez,AK        
++30.83170        -83.27830           Valdosta,GA        
++43.98300       -117.23300               Vale,OR        
++42.86700       -100.56700          Valentine,NE        
++41.81300        -73.77250           Valhalla,NY        
++38.11000       -122.25000            Vallejo,CA        
++35.83330        +14.48330        Valletta,Malta        
+-33.03320        -71.53320      Valparaiso,Chile        
++47.15000        -67.96700          Van_Buren,ME        
++34.18330       -118.36700           Van_Nuys,CA        
++49.25000       -123.08000          Vancouver,BC        
++45.62500       -122.67000          Vancouver,WA        
++47.09920         +9.86340       Vandans,Austria        
++34.73330       -120.58300     Vandenberg_AFB,CA        
++34.61700       -105.21700             Vaughn,NM        
++33.90000       -118.44200             Venice,CA        
++45.41670        +12.30000          Venice,Italy        
++34.28330       -119.30000            Ventura,CA        
++42.78000        -96.92830         Vermillion,SD        
++40.48300       -109.66700             Vernal,UT        
++32.34830        -90.87830          Vicksburg,MS        
++48.63000       -123.40000           Victoria,BC        
++28.80500        -97.00500           Victoria,TX        
++48.21670        +16.36670        Vienna,Austria        
++39.48670        -75.02670           Vineland,NJ        
++36.84670        -75.97500     Virginia_Beach,VA        
++36.84611        -76.13920     Virginia_Beach,VA        
++36.33500       -119.29700            Visalia,CA        
++43.10000       +131.78330    Vladivostok,Russia        
++47.15210        +11.19480          Vols,Austria        
++46.87170        -96.90330           W._Fargo,ND        
++41.75000        -72.74000        W._Hartford,CT        
++42.10143        -72.63000     W._Springfield,MA        
++41.70830        -71.52500         W._Warwick,RI        
++40.75000        -85.83300             Wabash,IN        
++31.55330        -97.13330               Waco,TX        
++21.50000       -158.03300            Wahiawa,HI        
++21.55000       -158.13300            Waialua,HI        
++19.86700       -155.75000            Waikola,HI        
++20.91700       -156.50000            Wailuku,HI        
++21.93300       -159.63300             Waimea,HI        
++21.33300       -158.03300            Waipahu,HI        
++19.28167       +166.63640             Wake_Island        
++42.50000        -71.06670          Wakefield,MA        
++44.10000        -69.36700          Waldoboro,ME        
++30.44940        -91.18330             Walker,LA        
++46.06890       -118.34000        Walla_Walla,WA        
++47.45000       -115.91700            Wallace,ID        
++45.56700       -117.53300            Wallowa,OR        
++37.90170       -122.05800       Walnut_Creek,CA        
++42.37330        -71.23670            Waltham,MA        
++32.61670        -83.60170      Warner_Robins,GA        
++42.50830        -83.02670             Warren,MI        
++41.23670        -80.80830             Warren,OH        
++41.83300        -79.16700             Warren,PA        
++52.58340        +21.08330         Warsaw,Poland        
++41.70170        -71.45830            Warwick,RI        
++45.60000       -120.70000              Wasco,OR        
++44.07420        -93.49250             Waseca,MN        
++38.92056        -77.06580  Washington_(USNO),DC        
++38.89750        -77.00920         Washington,DC        
++40.69300        -89.40000         Washington,IL        
++41.55360        -73.04190          Waterbury,CT        
++42.49440        -92.33890           Waterloo,IA        
++43.46000        -80.49000           Waterloo,ON        
++44.00000        -75.91700          Watertown,NY        
++44.90170        -97.11330          Watertown,SD        
++47.63300       -120.06700         Waterville,WA        
++42.35830        -87.83330           Waukegan,IL        
++43.00220        -88.23670           Waukesha,WI        
++44.96700        -89.66700             Wausau,WI        
++43.05170        -88.00670          Wauwatosa,WI        
++31.18300        -82.40000           Waycross,GA        
++42.21700        -97.05000              Wayne,NE        
++38.06250        -78.87500         Waynesboro,VA        
++39.93330        -80.23330         Waynesburg,PA        
++43.70000        -71.25000              Weirs,NH        
++40.40500        -80.58830            Weirton,WV        
+-41.24990       +174.75000  Wellington,N_Zealand        
++41.11700       -115.06700              Wells,NV        
++40.78300       -114.01700           Wendover,UT        
++43.00830        -88.00670         West_Allis,WI        
++34.07170       -117.90900        West_Covina,CA        
++41.28330        -72.95330         West_Haven,CT        
++34.18720       -118.63800         West_Hills,CA        
++35.14670        -90.17670       West_Memphis,AR        
++26.71670        -80.05330    West_Palm_Beach,FL        
++43.67670        -70.36330          Westbrook,ME        
++41.41700        -71.83300           Westerly,RI        
++42.29670        -83.38670           Westland,MI        
++33.77500       -117.99300        Westminster,CA        
++39.83000       -105.03300        Westminster,CO        
++38.56110        -76.99440        Westminster,MD        
++42.20000        -72.53330       Westover_AFB,MA        
++42.22170        -70.96500           Weymouth,MA        
++39.08300        -77.08300            Wheaton,MD        
++21.48472       -158.04000        Wheeler_AFB,HI        
++40.06750        -80.72220           Wheeling,WV        
+-36.78330       +174.63330 Whenuapai,New_Zealand        
++48.30000       -122.65000        Whidbey_Is.,WA        
++41.03330        -73.76330       White_Plains,NY        
++60.71700       -135.06700      Whitehorse,Yukon        
++33.96670       -118.04200           Whittier,CA        
++33.90940        -98.49110      Wichita_Falls,TX        
++37.69170        -97.33780            Wichita,KS        
++33.96700       -112.73300         Wickenburg,AZ        
++43.61050       -116.94200             Wilder,ID        
++41.24220        -75.88800       Wilkes-Barre,PA        
++32.25000       -109.83300            Willcox,AZ        
++48.14830       -103.62200          Williston,ND        
++39.74610        -75.54750         Wilmington,DE        
++34.23670        -77.92330         Wilmington,NC        
++46.23300       -116.65000         Winchester,ID        
++38.00000        -84.25000         Winchester,KY        
++42.75000        -72.41700         Winchester,NH        
++39.16700        -78.16700         Winchester,VA        
++41.75000        -72.08300             Windam,CT        
++42.28300        -82.96700            Windsor,ON        
++40.10000       -119.11700         Winnemucca,NV        
++43.36700        -99.83300             Winner,SD        
++47.01700       -108.33300            Winnett,MT        
++31.93300        -92.65000          Winnfield,LA        
++49.90000        -97.13000           Winnipeg,MB        
++44.05000        -91.66700             Winona,MN        
++33.48300        -89.71700             Winona,MS        
++44.50000        -73.16700           Winooski,VT        
++41.91700        -73.08300            Winsted,CT        
++36.09780        -80.24500      Winston-Salem,NC        
++51.53330         +3.89860  Wolphaartsdijk,Neth.        
++34.15030       -118.59000     Woodland_Hills,CA        
++44.16700        -72.00000         Woodsville,NH        
++36.41700        -99.40000           Woodward,OK        
++42.00000        -71.50000         Woonsocket,RI        
++44.05000        -98.28300         Woonsocket,SD        
++42.26030        -71.80470          Worcester,MA        
++9.46670       +170.23330    Wotje,Marshall_Is.         
++39.83330        -84.05000    Wright-Patterson_AFB        
++49.82000         +9.89100      Wurzburg,Germany        
++40.01000        -75.17990          Wynnewood,PA        
++42.89670        -85.70670            Wyoming,MI        
++36.91700        -81.10000         Wytheville,VA        
++46.59500       -120.51300             Yakima,WA        
++59.53300       -139.58300            Yakutat,AK        
++44.48330        +34.20000         Yalta,Ukraine        
++42.87500        -97.39000            Yankton,SD        
++9.49750       +138.08940 Yap_Island,Micronesia         
++40.21100        -74.77600            Yardley,PA        
++62.48000       -114.42000       Yellowknife,NWT        
++40.93190        -73.89830            Yonkers,NY        
++39.95970        -76.72670               York,PA        
++41.33330        -73.76670   Yorktown_Heights,NY        
++41.09920        -80.65050         Youngstown,OH        
++39.13300       -121.63300          Yuba_City,CA        
++32.71500       -114.62300               Yuma,AZ        
++40.13300       -102.83300               Yuma,CO        
++39.93830        -82.00830         Zanesville,OH        
++41.66670         -1.05000        Zaragoza,Spain        
++47.36670         +8.53330    Zurich,Switzerland        
++50.70000        +12.50000       Zwickau,Germany        

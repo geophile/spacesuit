@@ -1,0 +1,10 @@
+#!/bin/sh
+
+SPACESUIT_DIR=$(dirname $0)/../../..
+
+JVM_OPTIONS="-ea"
+CLASSPATH="$CLASSPATH:$JDK_HOME/jre/lib/rt.jar:$SPACESUIT_DIR/target/test-classes:$SPACESUIT_DIR/target/classes"
+
+MAIN=com.geophile.spacesuit.example.QueryDB
+
+$JDK_HOME/bin/java $JVM_OPTIONS -classpath $CLASSPATH $MAIN $*
